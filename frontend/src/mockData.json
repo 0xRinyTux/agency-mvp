@@ -1,0 +1,81 @@
+{
+    "meta": {
+        "company_name": "Sartoria Elisa La Bua",
+        "primary_color": "#e11d48",
+        "secondary_color": "#f43f5e",
+        "main_service": "Sartoria su Misura e Riparazioni",
+        "city": "Palermo"
+    },
+    "hero": {
+        "badge": "Emergenza Sartoria a Palermo",
+        "title": "Abito strappato o orlo da rifare prima di un evento importante?",
+        "subtitle": "Non rovinare la tua serata. Offriamo riparazioni sartoriali invisibili, veloci e perfette a Palermo. Affidati a mani esperte senza alcun rischio.",
+        "cta_primary": "Chiama Ora per un Intervento Rapido",
+        "cta_secondary": "Scopri le Riparazioni",
+        "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+        "image_alt": "Riparazioni sartoriali e abiti su misura a Palermo"
+    },
+    "services": {
+        "title": "I Nostri Servizi di Riparazione",
+        "subtitle": "Soluzioni rapide per evitare sprechi e salvare il tuo guardaroba.",
+        "items": [
+            "Riparazioni Rapide e Invisibili",
+            "Orli e Messe a Misura Perfette",
+            "Modellistica su Misura",
+            "Rinnovamento Capi Vintage"
+        ]
+    },
+    "about": {
+        "title": "Perché Scegliere Noi a Palermo",
+        "description": "Hai investito molto nei tuoi capi di valore e un rammendo amatoriale li renderebbe inutilizzabili. La Sartoria Elisa La Bua non è un semplice laboratorio: garantiamo un'attenzione ossessiva al dettaglio, preservando il valore e la bellezza del tuo abito originale. Affidati a professionisti.",
+        "cta": "Richiedi un Preventivo Gratuito"
+    },
+    "reviews": {
+        "title": "Non fidarti solo di noi",
+        "subtitle": "Ascolta chi ha già salvato i propri abiti in tempo record.",
+        "best_review": {
+            "name": "Maria G.",
+            "text": "Lavoro perfetto e precisissimo! Elisa ha salvato un abito a cui tenevo moltissimo a poche ore dall'evento. Non ha eguali a Palermo.",
+            "rating": 5
+        },
+        "items": [
+            {
+                "name": "Cliente Entusiasta",
+                "text": "Lavoro perfetto e precisissimo! Elisa è una vera professionista, ha salvato un abito a cui tenevo moltissimo. Consigliatissima!",
+                "rating": 5
+            },
+            {
+                "name": "Maria G.",
+                "text": "Cortesia, rapidità e mani d'oro. La migliore sartoria di Palermo senza alcun dubbio.",
+                "rating": 5
+            },
+            {
+                "name": "Francesca R.",
+                "text": "Ho portato diversi capi per riparazioni e orli. Risultato sempre impeccabile e prezzi onesti. Una garanzia.",
+                "rating": 5
+            }
+        ]
+    },
+    "contact": {
+        "title": "Non Aspettare, Contattaci Ora",
+        "phone": "+39 376 039 8459",
+        "address": "Via Danimarca, Palermo, PA",
+        "phone_label": "Assistenza Immediata",
+        "phone_sublabel": "Siamo pronti a riparare il tuo abito",
+        "address_label": "Vieni in Laboratorio",
+        "hours_title": "Orari di Apertura",
+        "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.8680795410185!2d13.3330364!3d38.1631584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e8cf1689ea55%3A0xc47e3a968600125c!2sSartoria%20Elisa%20La%20bua!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit",
+        "opening_hours": {
+            "Lunedì": "9:00 - 13:00, 16:00 - 19:30",
+            "Martedì": "9:00 - 13:00, 16:00 - 19:30",
+            "Mercoledì": "9:00 - 13:00, 16:00 - 19:30",
+            "Giovedì": "9:00 - 13:00, 16:00 - 19:30",
+            "Venerdì": "9:00 - 13:00, 16:00 - 19:30",
+            "Sabato": "9:00 - 13:00",
+            "Domenica": "Chiuso"
+        }
+    },
+    "footer": {
+        "description": "Riparazioni sartoriali perfette per salvare i tuoi abiti a Palermo."
+    }
+}

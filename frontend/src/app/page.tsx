@@ -1,182 +1,102 @@
-import Image from "next/image";
+import React from "react";
+import type { Metadata } from 'next';
+import data from "../mockData.json";
+import Hero from "../components/Hero";
+import Services from "../components/Services";
+import Reviews from "../components/Reviews";
+import Contact from "../components/Contact";
 
-const mockData = {
-"company_name": "R.R Idraulica",
-"hero_title": "Emergenza Idraulica? Siamo da Te in 15 Minuti.",
-"hero_subtitle": "Pronto intervento H24 a Milano: interveniamo in 15 minuti, ogni giorno dell'anno, con prezzi trasparenti e senza sorprese.",
-"services": [
-"Pronto Intervento H24",
-"Riparazione Tubi Scoppiati",
-"Sblocco Scarichi e Fognature",
-"Sostituzione Caldaie e Boiler"
-],
-"about_us": "Riccardo e Federico sono due idraulici giovani, competenti e sempre reperibili, anche di notte e nei festivi. Operano in tutta Milano centro con un approccio onesto, lavori puliti e soluzioni rapide. Per ogni emergenza idraulica, sono la scelta giusta.",
-"contact_phone": "324 806 4800",
-"address": "Via Meravigli, 20121 Milano MI",
-"google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449278.7375341314!2d9.06353296905437!3d45.44472950995973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4786c146394bc381%3A0xe111af2ff63b7a7b!2sR.R%20idraulica!5e1!3m2!1sit!2sit!4v1777294181826!5m2!1sit!2sit",
-"opening_hours": {
-"Lunedì": "Aperto 24 ore su 24",
-"Martedì": "Aperto 24 ore su 24",
-"Mercoledì": "Aperto 24 ore su 24",
-"Giovedì": "Aperto 24 ore su 24",
-"Venerdì": "Aperto 24 ore su 24",
-"Sabato": "Aperto 24 ore su 24",
-"Domenica": "Aperto 24 ore su 24"
-},
-"reviews": [
-{ "name": "Gemma Moreau", "text": "Riccardo è arrivato lo stesso giorno della chiamata. Ha risolto rapidamente due piccoli problemi. Molto professionale e onesto.", "rating": 5 },
-{ "name": "Luciano Verdetti", "text": "Idraulico giovane e molto professionale. Mi è scoppiato un tubo, in 15 minuti era a casa mia e ha risolto il problema in un attimo. Consigliatissimo!", "rating": 5 },
-{ "name": "Laura Zanutti", "text": "Federico e Riccardo, li consiglio senza il minimo dubbio. Onesti, rapidissimi, competenti ed educati. Ho salvato il loro numero in rubrica.", "rating": 5 }
-]
-};
+export const metadata: Metadata = {
+  title: `${data.meta.main_service} a ${data.meta.city} | ${data.meta.company_name}`,
+  description: data.hero.subtitle,
+}
 
 export default function Home() {
-  const data = mockData;
+  const schemaData = {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": data.meta.company_name,
+    "telephone": data.contact.phone,
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": data.contact.address,
+      "addressLocality": data.meta.city
+    },
+    "openingHours": Object.entries(data.contact.opening_hours).map(([day, hours]) => `${day} ${hours}`)
+  };
 
   return (
-    <div className="min-h-screen bg-gray-50 text-gray-900 font-sans">
+    <div className="min-h-screen bg-slate-50 text-slate-900 font-sans pb-24 md:pb-0">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaData) }} />
+      <style dangerouslySetInnerHTML={{__html: `
+        ::selection {
+          background-color: ${data.meta.primary_color}40;
+        }
+      `}} />
       
       {/* Header */}
-      <header className={`bg-white shadow-sm border-t-4 border-blue-600`}>
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
-          <div className={`text-2xl font-bold text-blue-600`}>
-            {data.company_name}
+      <header className="sticky top-0 z-50 bg-white/95 backdrop-blur-md border-b border-slate-200 shadow-sm">
+        <div className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
+          <div className="text-xl md:text-2xl font-extrabold text-slate-900 flex items-center">
+            <div 
+              className="w-10 h-10 rounded-xl text-white flex items-center justify-center mr-3 shadow-lg shrink-0"
+              style={{ backgroundColor: data.meta.primary_color }}
+            >
+              <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
+              </svg>
+            </div>
+            <span className="truncate">{data.meta.company_name}</span>
           </div>
-          <div>
-            <a href={`tel:${data.contact_phone}`} className={`font-semibold text-blue-600`}>
-              {data.contact_phone}
+          <div className="hidden md:block">
+            <a 
+              href={`tel:${data.contact.phone.replace(/\s+/g, '')}`} 
+              className="inline-flex items-center px-6 py-2.5 text-white font-bold rounded-xl hover:opacity-90 transition-opacity shadow-lg"
+              style={{ backgroundColor: data.meta.primary_color }}
+            >
+              <svg className="w-5 h-5 mr-2 animate-pulse" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
+              </svg>
+              Chiama Ora
             </a>
           </div>
         </div>
       </header>
 
-      {/* Hero Section */}
       <main>
-        <div className={`bg-blue-600 text-white`}>
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 lg:py-32 flex flex-col items-center text-center">
-            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight mb-6">
-              {data.hero_title}
-            </h1>
-            <p className="text-xl sm:text-2xl max-w-3xl mb-10 opacity-90">
-              {data.hero_subtitle}
-            </p>
-            <div className="flex flex-col sm:flex-row gap-4">
-              <a href={`tel:${data.contact_phone}`} className="bg-white text-blue-600 px-8 py-3 rounded-full font-bold text-lg hover:bg-gray-100 transition shadow-lg inline-block">
-                Chiama Ora {data.contact_phone}
-              </a>
-              <a 
-                href={`https://wa.me/${data.contact_phone.replace(/[^0-9]/g, '')}?text=Salve,%20ho%20bisogno%20di%20un%20intervento.`} 
-                target="_blank" 
-                rel="noopener noreferrer"
-                className="bg-green-500 text-white px-8 py-3 rounded-full font-bold text-lg hover:bg-green-600 transition shadow-lg inline-block"
-              >
-                Scrivici su WhatsApp
-              </a>
-            </div>
-          </div>
-        </div>
-
-        {/* About Section */}
-        <div className="py-16 bg-white">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="text-center max-w-3xl mx-auto">
-              <h2 className="text-3xl font-bold mb-6">Chi Siamo</h2>
-              <p className="text-lg text-gray-600 leading-relaxed">
-                {data.about_us}
-              </p>
-            </div>
-          </div>
-        </div>
-
-        {/* Services Section */}
-        <div className="py-16 bg-gray-50">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-3xl font-bold text-center mb-12">I Nostri Servizi</h2>
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
-              {data.services.map((service, index) => (
-                <div key={index} className="bg-white p-6 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition">
-                  <div className="w-12 h-12 bg-blue-100 text-blue-600 rounded-lg flex items-center justify-center mb-4 text-xl font-bold">
-                    ✓
-                  </div>
-                  <h3 className="text-xl font-semibold">{service}</h3>
-                </div>
-              ))}
-            </div>
-          </div>
-        </div>
-
-        <section id="mappa" className="py-16 bg-white">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 items-start">
-              <div className="space-y-6">
-                <div>
-                  <h2 className="text-3xl font-bold text-slate-900 mb-4">Orari e Mappa</h2>
-                  <p className="text-lg text-slate-900">
-                    <span className="text-blue-600 font-semibold">Indirizzo:</span> {data.address}
-                  </p>
-                </div>
-                <div className="bg-white rounded-xl shadow-sm border border-gray-100">
-                  <div className="px-6 py-4 border-b border-gray-100">
-                    <h3 className="text-xl font-semibold text-slate-900">Orari di apertura</h3>
-                  </div>
-                  <div className="px-6 py-4">
-                    <table className="w-full text-left">
-                      <tbody>
-                        {Object.entries(data.opening_hours).map(([day, hours]) => (
-                          <tr key={day} className="border-b last:border-b-0 border-gray-100">
-                            <td className="py-2 pr-4 font-medium text-slate-900">{day}</td>
-                            <td className={`py-2 ${hours === "Chiuso" ? "text-slate-500" : "text-slate-900"}`}>{hours}</td>
-                          </tr>
-                        ))}
-                      </tbody>
-                    </table>
-                  </div>
-                </div>
-              </div>
-              <div className="h-full">
-                <iframe
-                  src={data.google_maps_embed_url}
-                  title={`Mappa ${data.company_name}`}
-                  loading="lazy"
-                  referrerPolicy="no-referrer-when-downgrade"
-                  className="w-full h-full min-h-[400px] rounded-xl shadow-lg"
-                />
-              </div>
-            </div>
-          </div>
-        </section>
-
-        {/* Reviews Section */}
-        <div className="py-16 bg-white">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-3xl font-bold text-center mb-12">Cosa dicono i nostri clienti</h2>
-            <div className="grid grid-cols-1 sm:grid-cols-3 gap-8">
-              {data.reviews.map((review, index) => (
-                <div key={index} className="bg-gray-50 p-6 rounded-xl border border-gray-100">
-                  <div className="text-yellow-400 text-xl mb-2">{"★".repeat(review.rating)}</div>
-                  <p className="text-gray-600 italic mb-4">"{review.text}"</p>
-                  <div className="font-semibold text-gray-900">- {review.name}</div>
-                </div>
-              ))}
-            </div>
-          </div>
-        </div>
-
-        {/* CTA Section */}
-        <div id="contatti" className="bg-blue-600 text-white py-16">
-          <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <h2 className="text-3xl font-bold mb-6">Hai un'emergenza o vuoi un preventivo?</h2>
-            <p className="text-xl mb-8 opacity-90">Contattaci subito per un intervento rapido e professionale.</p>
-            <a href={`tel:${data.contact_phone}`} className="bg-white text-blue-600 px-8 py-4 rounded-full font-bold text-xl hover:bg-gray-100 transition shadow-xl inline-block">
-              Chiama {data.contact_phone}
-            </a>
-          </div>
-        </div>
+        <Hero data={data} />
+        <Services data={data} />
+        <Reviews data={data} />
+        <Contact data={data} />
       </main>
 
-      <footer className="bg-gray-900 text-gray-400 py-8 text-center">
-         © {new Date().getFullYear()} {data.company_name}. Tutti i diritti riservati.
+      <footer className="bg-slate-900 text-slate-400 py-12 text-center border-t border-slate-800">
+        <div className="container mx-auto px-6">
+          <div className="text-2xl font-extrabold text-white mb-6 flex items-center justify-center">
+            {data.meta.company_name}
+          </div>
+          <p className="mb-4">
+            {data.footer.description}
+          </p>
+          <p className="text-sm">
+             © {new Date().getFullYear()} {data.meta.company_name}. Tutti i diritti riservati.
+          </p>
+        </div>
       </footer>
+
+      {/* Sticky Mobile CTA */}
+      <div className="md:hidden fixed bottom-0 left-0 right-0 p-4 bg-white border-t border-slate-200 shadow-[0_-10px_15px_-3px_rgba(0,0,0,0.1)] z-50">
+        <a 
+          href={`tel:${data.contact.phone.replace(/\s+/g, '')}`} 
+          className="w-full flex items-center justify-center px-6 py-4 text-white text-lg font-bold rounded-xl shadow-lg active:scale-95 transition-transform"
+          style={{ backgroundColor: data.meta.primary_color }}
+        >
+          <svg className="w-6 h-6 mr-2 animate-bounce" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
+          </svg>
+          Chiama Ora
+        </a>
+      </div>
     </div>
   );
 }

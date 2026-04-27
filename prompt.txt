@@ -1,0 +1,4 @@
+Leggi i file COPYWRITING_RULES.md, SEO_RULES.md e UI_UX_RULES.md presenti nel progetto. 
+Poi leggi i dati di Sartoria Elisa nel mockData.json. 
+Genera la home page completa in Next.js applicando TUTTE le regole scritte nei file e usa l'MCP di Stitch per lo stile. 
+Fai tutto da solo, non chiedermi conferme intermedie.

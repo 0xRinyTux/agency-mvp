@@ -1,0 +1,41 @@
+{
+    "company_name": "R.R Idraulica",
+    "hero_title": "Emergenza Idraulica? Siamo da Te in 15 Minuti.",
+    "hero_subtitle": "Pronto intervento H24 a Milano: interveniamo in 15 minuti, ogni giorno dell'anno, con prezzi trasparenti e senza sorprese.",
+    "services": [
+        "Pronto Intervento H24",
+        "Riparazione Tubi Scoppiati",
+        "Sblocco Scarichi e Fognature",
+        "Sostituzione Caldaie e Boiler"
+    ],
+    "about_us": "Riccardo e Federico sono due idraulici giovani, competenti e sempre reperibili, anche di notte e nei festivi. Operano in tutta Milano centro con un approccio onesto, lavori puliti e soluzioni rapide. Per ogni emergenza idraulica, sono la scelta giusta.",
+    "contact_phone": "324 806 4800",
+    "address": "Via Meravigli, 20121 Milano MI",
+    "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449278.7375341314!2d9.06353296905437!3d45.44472950995973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4786c146394bc381%3A0xe111af2ff63b7a7b!2sR.R%20idraulica!5e1!3m2!1sit!2sit!4v1777294181826!5m2!1sit!2sit",
+    "opening_hours": {
+        "Lunedì": "Aperto 24 ore su 24",
+        "Martedì": "Aperto 24 ore su 24",
+        "Mercoledì": "Aperto 24 ore su 24",
+        "Giovedì": "Aperto 24 ore su 24",
+        "Venerdì": "Aperto 24 ore su 24",
+        "Sabato": "Aperto 24 ore su 24",
+        "Domenica": "Aperto 24 ore su 24"
+    },
+    "reviews": [
+        {
+            "name": "Gemma Moreau",
+            "text": "Riccardo è arrivato lo stesso giorno della chiamata. Ha risolto rapidamente due piccoli problemi. Molto professionale e onesto.",
+            "rating": 5
+        },
+        {
+            "name": "Luciano Verdetti",
+            "text": "Idraulico giovane e molto professionale. Mi è scoppiato un tubo, in 15 minuti era a casa mia e ha risolto il problema in un attimo. Consigliatissimo!",
+            "rating": 5
+        },
+        {
+            "name": "Laura Zanutti",
+            "text": "Federico e Riccardo, li consiglio senza il minimo dubbio. Onesti, rapidissimi, competenti ed educati. Ho salvato il loro numero in rubrica.",
+            "rating": 5
+        }
+    ]
+}
