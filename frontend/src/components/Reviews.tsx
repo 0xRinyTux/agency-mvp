@@ -5,14 +5,16 @@ const Reviews = ({ data }: { data: any }) => {
     <section className="py-24 bg-slate-50">
       <div className="container mx-auto px-6 max-w-7xl">
         <div className="text-center mb-16">
-          <h2 className="text-3xl md:text-4xl font-extrabold text-slate-900 mb-4 tracking-tight">{data.reviews.title}</h2>
+          <h2 className="text-3xl md:text-4xl font-extrabold text-slate-900 mb-4 tracking-tight">
+            {data.reviews?.title || "Cosa dicono i nostri clienti"}
+          </h2>
           <p className="text-lg text-slate-600 max-w-2xl mx-auto font-medium">
-            {data.reviews.subtitle}
+            {data.reviews?.subtitle}
           </p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-          {data.reviews.items.map((review: any, index: number) => (
+          {data.reviews?.items?.map((review: any, index: number) => (
             <div 
               key={index} 
               className="bg-white rounded-[1.5rem] p-8 border border-slate-200 flex flex-col shadow-sm"
@@ -31,10 +33,10 @@ const Reviews = ({ data }: { data: any }) => {
                 <div 
                   className="w-12 h-12 rounded-full flex items-center justify-center font-bold text-lg mr-3 bg-slate-800 text-white"
                 >
-                  {review.name.charAt(0)}
+                  {review.name?.charAt(0) || "U"}
                 </div>
                 <div>
-                  <h3 className="font-bold text-slate-900">{review.name}</h3>
+                  <h3 className="font-bold text-slate-900">{review.name || "Utente"}</h3>
                   <span className="text-sm text-slate-500 font-medium">Recensione verificata</span>
                 </div>
               </div>
