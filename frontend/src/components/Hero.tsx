@@ -76,6 +76,7 @@ const Hero = ({ data }: { data: any }) => {
                 alt={data.hero.image_alt || "Immagine attività"}
                 fill
                 priority={true}
+                unoptimized={true}
                 className="object-cover w-full h-full"
                 onError={(e) => {
                   // Fallback se l'immagine Unsplash fallisce
