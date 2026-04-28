@@ -14,11 +14,12 @@ const supabase = createClient(
 export const revalidate = 0; 
 
 // Generate dynamic metadata for the preview page
-export async function generateMetadata({ params }: { params: { id: string } }): Promise<Metadata> {
+export async function generateMetadata({ params }: { params: Promise<{ id: string }> }): Promise<Metadata> {
+  const { id } = await params;
   const { data } = await supabase
     .from('leads')
     .select('website_data')
-    .eq('id', params.id)
+    .eq('id', id)
     .single();
 
   if (!data || !data.website_data) return {};
@@ -30,8 +31,8 @@ export async function generateMetadata({ params }: { params: { id: string } }): 
   };
 }
 
-export default async function PreviewPage({ params }: { params: { id: string } }) {
-  const { id } = params;
+export default async function PreviewPage({ params }: { params: Promise<{ id: string }> }) {
+  const { id } = await params;
 
   // Fetch from Supabase
   const { data, error } = await supabase

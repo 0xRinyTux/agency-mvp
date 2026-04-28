@@ -1,902 +1,1946 @@
 [
     {
         "company_name": "Falegnameria Paiano Lecce - Cucine e Arredi su misura - Pietro Paolo",
-        "hero_title": "Welcome to Falegnameria Paiano Lecce - Cucine e Arredi su misura - Pietro Paolo",
-        "hero_subtitle": "Discover our high quality services. We pride ourselves on providing the best experience for our customers.",
-        "services": [
-            "Dedicated Customer Service",
-            "Free Consultation",
-            "Professional Approach",
-            "Custom Quotes"
-        ],
-        "about_us": "Falegnameria Paiano Lecce - Cucine e Arredi su misura - Pietro Paolo provides excellent services ensuring maximum competence. We are ready to assist you.",
-        "contact_phone": "+39 329 419 9082",
-        "address": "Via G. Marconi, 62, 73020 Cavallino LE, Italy",
-        "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449278.7375341314!2d9.06353296905437!3d45.44472950995973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMilano!5e1!3m2!1sit!2sit!4v1777294181826!5m2!1sit!2sit",
-        "opening_hours": {
-            "Lunedì": "9:00 - 18:00",
-            "Martedì": "9:00 - 18:00",
-            "Mercoledì": "9:00 - 18:00",
-            "Giovedì": "9:00 - 18:00",
-            "Venerdì": "9:00 - 18:00",
-            "Sabato": "10:00 - 14:00",
-            "Domenica": "Chiuso"
+        "meta": {
+            "company_name": "Falegnameria Paiano Lecce - Cucine e Arredi su misura - Pietro Paolo",
+            "primary_color": "#e11d48",
+            "secondary_color": "#f43f5e",
+            "main_service": "Falegname",
+            "city": "Lecce"
         },
-        "reviews": [
-            {
+        "hero": {
+            "badge": "Emergenza falegname a Lecce",
+            "title": "Hai un problema urgente con il tuo falegname?",
+            "subtitle": "Non perdere tempo. Offriamo interventi rapidi e perfetti a Lecce. Affidati a Falegnameria Paiano Lecce - Cucine e Arredi su misura - Pietro Paolo senza alcun rischio.",
+            "cta_primary": "Chiama Ora per un Intervento Rapido",
+            "cta_secondary": "Scopri i Servizi",
+            "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "image_alt": "falegname a Lecce"
+        },
+        "services": {
+            "title": "I Nostri Servizi",
+            "subtitle": "Soluzioni rapide per ogni tua esigenza.",
+            "items": [
+                "Interventi Rapidi",
+                "Lavorazioni su Misura",
+                "Materiali di Alta Qualità",
+                "Preventivi Trasparenti"
+            ]
+        },
+        "about": {
+            "title": "Perché Scegliere Noi a Lecce",
+            "description": "Falegnameria Paiano Lecce - Cucine e Arredi su misura - Pietro Paolo non è un semplice laboratorio: garantiamo un'attenzione ossessiva al dettaglio. Affidati a veri professionisti.",
+            "cta": "Richiedi un Preventivo"
+        },
+        "reviews": {
+            "title": "Non fidarti solo di noi",
+            "subtitle": "Ascolta chi ha già scelto i nostri servizi.",
+            "best_review": {
                 "name": "Local Guide",
-                "text": "Fantastic service and very helpful staff. Highly recommended!",
+                "text": "Lavoro perfetto e precisissimo! Consigliatissimo.",
                 "rating": 4.8
+            },
+            "items": [
+                {
+                    "name": "Cliente Entusiasta",
+                    "text": "Lavoro perfetto e precisissimo! Una vera garanzia.",
+                    "rating": 4.8
+                }
+            ]
+        },
+        "contact": {
+            "title": "Non Aspettare, Contattaci Ora",
+            "phone": "+39 329 419 9082",
+            "address": "Via G. Marconi, 62, 73020 Cavallino LE, Italy",
+            "phone_label": "Assistenza Immediata",
+            "phone_sublabel": "Siamo pronti ad aiutarti",
+            "address_label": "Vieni in Sede",
+            "hours_title": "Orari di Apertura",
+            "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.8680795410185!2d13.3330364!3d38.1631584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e8cf1689ea55%3A0xc47e3a968600125c!2sSartoria%20Elisa%20La%20bua!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit",
+            "opening_hours": {
+                "Lunedì": "9:00 - 18:00",
+                "Martedì": "9:00 - 18:00",
+                "Mercoledì": "9:00 - 18:00",
+                "Giovedì": "9:00 - 18:00",
+                "Venerdì": "9:00 - 18:00",
+                "Sabato": "9:00 - 13:00",
+                "Domenica": "Chiuso"
             }
-        ],
-        "_metadata": {
-            "rating": 4.8,
-            "reviews_count": 22,
-            "search_query": "falegname artigiano Lecce"
+        },
+        "footer": {
+            "description": "Servizi eccellenti a Lecce."
+        }
+    },
+    {
+        "company_name": "Antonio Luigi Scardino - Falegnameria, riparazioni e restauri - Lecce",
+        "meta": {
+            "company_name": "Antonio Luigi Scardino - Falegnameria, riparazioni e restauri - Lecce",
+            "primary_color": "#e11d48",
+            "secondary_color": "#f43f5e",
+            "main_service": "Falegname",
+            "city": "Lecce"
+        },
+        "hero": {
+            "badge": "Emergenza falegname a Lecce",
+            "title": "Hai un problema urgente con il tuo falegname?",
+            "subtitle": "Non perdere tempo. Offriamo interventi rapidi e perfetti a Lecce. Affidati a Antonio Luigi Scardino - Falegnameria, riparazioni e restauri - Lecce senza alcun rischio.",
+            "cta_primary": "Chiama Ora per un Intervento Rapido",
+            "cta_secondary": "Scopri i Servizi",
+            "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "image_alt": "falegname a Lecce"
+        },
+        "services": {
+            "title": "I Nostri Servizi",
+            "subtitle": "Soluzioni rapide per ogni tua esigenza.",
+            "items": [
+                "Interventi Rapidi",
+                "Lavorazioni su Misura",
+                "Materiali di Alta Qualità",
+                "Preventivi Trasparenti"
+            ]
+        },
+        "about": {
+            "title": "Perché Scegliere Noi a Lecce",
+            "description": "Antonio Luigi Scardino - Falegnameria, riparazioni e restauri - Lecce non è un semplice laboratorio: garantiamo un'attenzione ossessiva al dettaglio. Affidati a veri professionisti.",
+            "cta": "Richiedi un Preventivo"
+        },
+        "reviews": {
+            "title": "Non fidarti solo di noi",
+            "subtitle": "Ascolta chi ha già scelto i nostri servizi.",
+            "best_review": {
+                "name": "Local Guide",
+                "text": "Lavoro perfetto e precisissimo! Consigliatissimo.",
+                "rating": 5
+            },
+            "items": [
+                {
+                    "name": "Cliente Entusiasta",
+                    "text": "Lavoro perfetto e precisissimo! Una vera garanzia.",
+                    "rating": 5
+                }
+            ]
+        },
+        "contact": {
+            "title": "Non Aspettare, Contattaci Ora",
+            "phone": "+39 347 260 1255",
+            "address": "Via E. di Vittorio, 10, 73020 Cavallino LE, Italy",
+            "phone_label": "Assistenza Immediata",
+            "phone_sublabel": "Siamo pronti ad aiutarti",
+            "address_label": "Vieni in Sede",
+            "hours_title": "Orari di Apertura",
+            "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.8680795410185!2d13.3330364!3d38.1631584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e8cf1689ea55%3A0xc47e3a968600125c!2sSartoria%20Elisa%20La%20bua!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit",
+            "opening_hours": {
+                "Lunedì": "9:00 - 18:00",
+                "Martedì": "9:00 - 18:00",
+                "Mercoledì": "9:00 - 18:00",
+                "Giovedì": "9:00 - 18:00",
+                "Venerdì": "9:00 - 18:00",
+                "Sabato": "9:00 - 13:00",
+                "Domenica": "Chiuso"
+            }
+        },
+        "footer": {
+            "description": "Servizi eccellenti a Lecce."
         }
     },
     {
         "company_name": "Giovanni De Lucia",
-        "hero_title": "Benvenuti da Giovanni De Lucia",
-        "hero_subtitle": "Scopri i nostri servizi di alta qualità. Siamo fieri di offrire la migliore esperienza ai nostri clienti.",
-        "services": [
-            "Servizio Clienti Dedicato",
-            "Consulenza Gratuita",
-            "Massima Professionalità",
-            "Preventivi su Misura"
-        ],
-        "about_us": "Giovanni De Lucia offre servizi eccellenti garantendo la massima competenza. Siamo pronti ad assisterti con professionalità e cortesia.",
-        "contact_phone": "+39 333 740 9595",
-        "address": "Via Pietro Metastasio, 79/81, 80125 Napoli NA, Italy",
-        "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449278.7375341314!2d9.06353296905437!3d45.44472950995973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMilano!5e1!3m2!1sit!2sit!4v1777294181826!5m2!1sit!2sit",
-        "opening_hours": {
-            "Lunedì": "9:00 - 18:00",
-            "Martedì": "9:00 - 18:00",
-            "Mercoledì": "9:00 - 18:00",
-            "Giovedì": "9:00 - 18:00",
-            "Venerdì": "9:00 - 18:00",
-            "Sabato": "10:00 - 14:00",
-            "Domenica": "Chiuso"
+        "meta": {
+            "company_name": "Giovanni De Lucia",
+            "primary_color": "#e11d48",
+            "secondary_color": "#f43f5e",
+            "main_service": "Calzolaio",
+            "city": "Napoli"
         },
-        "reviews": [
-            {
+        "hero": {
+            "badge": "Emergenza calzolaio a Napoli",
+            "title": "Hai un problema urgente con il tuo calzolaio?",
+            "subtitle": "Non perdere tempo. Offriamo interventi rapidi e perfetti a Napoli. Affidati a Giovanni De Lucia senza alcun rischio.",
+            "cta_primary": "Chiama Ora per un Intervento Rapido",
+            "cta_secondary": "Scopri i Servizi",
+            "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "image_alt": "calzolaio a Napoli"
+        },
+        "services": {
+            "title": "I Nostri Servizi",
+            "subtitle": "Soluzioni rapide per ogni tua esigenza.",
+            "items": [
+                "Interventi Rapidi",
+                "Lavorazioni su Misura",
+                "Materiali di Alta Qualità",
+                "Preventivi Trasparenti"
+            ]
+        },
+        "about": {
+            "title": "Perché Scegliere Noi a Napoli",
+            "description": "Giovanni De Lucia non è un semplice laboratorio: garantiamo un'attenzione ossessiva al dettaglio. Affidati a veri professionisti.",
+            "cta": "Richiedi un Preventivo"
+        },
+        "reviews": {
+            "title": "Non fidarti solo di noi",
+            "subtitle": "Ascolta chi ha già scelto i nostri servizi.",
+            "best_review": {
                 "name": "Local Guide",
-                "text": "Servizio fantastico e personale molto disponibile. Assolutamente consigliato!",
+                "text": "Lavoro perfetto e precisissimo! Consigliatissimo.",
                 "rating": 5
+            },
+            "items": [
+                {
+                    "name": "Cliente Entusiasta",
+                    "text": "Lavoro perfetto e precisissimo! Una vera garanzia.",
+                    "rating": 5
+                }
+            ]
+        },
+        "contact": {
+            "title": "Non Aspettare, Contattaci Ora",
+            "phone": "+39 333 740 9595",
+            "address": "Via Pietro Metastasio, 79/81, 80125 Napoli NA, Italy",
+            "phone_label": "Assistenza Immediata",
+            "phone_sublabel": "Siamo pronti ad aiutarti",
+            "address_label": "Vieni in Sede",
+            "hours_title": "Orari di Apertura",
+            "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.8680795410185!2d13.3330364!3d38.1631584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e8cf1689ea55%3A0xc47e3a968600125c!2sSartoria%20Elisa%20La%20bua!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit",
+            "opening_hours": {
+                "Lunedì": "9:00 - 18:00",
+                "Martedì": "9:00 - 18:00",
+                "Mercoledì": "9:00 - 18:00",
+                "Giovedì": "9:00 - 18:00",
+                "Venerdì": "9:00 - 18:00",
+                "Sabato": "9:00 - 13:00",
+                "Domenica": "Chiuso"
             }
-        ],
-        "_metadata": {
-            "rating": 5,
-            "reviews_count": 27,
-            "search_query": "calzolaio riparazioni Napoli"
+        },
+        "footer": {
+            "description": "Servizi eccellenti a Napoli."
         }
     },
     {
         "company_name": "Il calzolaio riparazione lavaggio e tintura scarpe e borse",
-        "hero_title": "Benvenuti da Il calzolaio riparazione lavaggio e tintura scarpe e borse",
-        "hero_subtitle": "Scopri i nostri servizi di alta qualità. Siamo fieri di offrire la migliore esperienza ai nostri clienti.",
-        "services": [
-            "Servizio Clienti Dedicato",
-            "Consulenza Gratuita",
-            "Massima Professionalità",
-            "Preventivi su Misura"
-        ],
-        "about_us": "Il calzolaio riparazione lavaggio e tintura scarpe e borse offre servizi eccellenti garantendo la massima competenza. Siamo pronti ad assisterti con professionalità e cortesia.",
-        "contact_phone": "+39 379 309 7202",
-        "address": "Via Santa Teresa degli Scalzi, 91, 80135 Napoli NA, Italy",
-        "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449278.7375341314!2d9.06353296905437!3d45.44472950995973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMilano!5e1!3m2!1sit!2sit!4v1777294181826!5m2!1sit!2sit",
-        "opening_hours": {
-            "Lunedì": "9:00 - 18:00",
-            "Martedì": "9:00 - 18:00",
-            "Mercoledì": "9:00 - 18:00",
-            "Giovedì": "9:00 - 18:00",
-            "Venerdì": "9:00 - 18:00",
-            "Sabato": "10:00 - 14:00",
-            "Domenica": "Chiuso"
+        "meta": {
+            "company_name": "Il calzolaio riparazione lavaggio e tintura scarpe e borse",
+            "primary_color": "#e11d48",
+            "secondary_color": "#f43f5e",
+            "main_service": "Calzolaio",
+            "city": "Napoli"
         },
-        "reviews": [
-            {
+        "hero": {
+            "badge": "Emergenza calzolaio a Napoli",
+            "title": "Hai un problema urgente con il tuo calzolaio?",
+            "subtitle": "Non perdere tempo. Offriamo interventi rapidi e perfetti a Napoli. Affidati a Il calzolaio riparazione lavaggio e tintura scarpe e borse senza alcun rischio.",
+            "cta_primary": "Chiama Ora per un Intervento Rapido",
+            "cta_secondary": "Scopri i Servizi",
+            "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "image_alt": "calzolaio a Napoli"
+        },
+        "services": {
+            "title": "I Nostri Servizi",
+            "subtitle": "Soluzioni rapide per ogni tua esigenza.",
+            "items": [
+                "Interventi Rapidi",
+                "Lavorazioni su Misura",
+                "Materiali di Alta Qualità",
+                "Preventivi Trasparenti"
+            ]
+        },
+        "about": {
+            "title": "Perché Scegliere Noi a Napoli",
+            "description": "Il calzolaio riparazione lavaggio e tintura scarpe e borse non è un semplice laboratorio: garantiamo un'attenzione ossessiva al dettaglio. Affidati a veri professionisti.",
+            "cta": "Richiedi un Preventivo"
+        },
+        "reviews": {
+            "title": "Non fidarti solo di noi",
+            "subtitle": "Ascolta chi ha già scelto i nostri servizi.",
+            "best_review": {
                 "name": "Local Guide",
-                "text": "Servizio fantastico e personale molto disponibile. Assolutamente consigliato!",
+                "text": "Lavoro perfetto e precisissimo! Consigliatissimo.",
                 "rating": 4.7
+            },
+            "items": [
+                {
+                    "name": "Cliente Entusiasta",
+                    "text": "Lavoro perfetto e precisissimo! Una vera garanzia.",
+                    "rating": 4.7
+                }
+            ]
+        },
+        "contact": {
+            "title": "Non Aspettare, Contattaci Ora",
+            "phone": "+39 379 309 7202",
+            "address": "Via Santa Teresa degli Scalzi, 91, 80135 Napoli NA, Italy",
+            "phone_label": "Assistenza Immediata",
+            "phone_sublabel": "Siamo pronti ad aiutarti",
+            "address_label": "Vieni in Sede",
+            "hours_title": "Orari di Apertura",
+            "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.8680795410185!2d13.3330364!3d38.1631584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e8cf1689ea55%3A0xc47e3a968600125c!2sSartoria%20Elisa%20La%20bua!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit",
+            "opening_hours": {
+                "Lunedì": "9:00 - 18:00",
+                "Martedì": "9:00 - 18:00",
+                "Mercoledì": "9:00 - 18:00",
+                "Giovedì": "9:00 - 18:00",
+                "Venerdì": "9:00 - 18:00",
+                "Sabato": "9:00 - 13:00",
+                "Domenica": "Chiuso"
             }
-        ],
-        "_metadata": {
-            "rating": 4.7,
-            "reviews_count": 10,
-            "search_query": "calzolaio riparazioni Napoli"
+        },
+        "footer": {
+            "description": "Servizi eccellenti a Napoli."
         }
     },
     {
         "company_name": "Cavaliere Biagio",
-        "hero_title": "Benvenuti da Cavaliere Biagio",
-        "hero_subtitle": "Scopri i nostri servizi di alta qualità. Siamo fieri di offrire la migliore esperienza ai nostri clienti.",
-        "services": [
-            "Servizio Clienti Dedicato",
-            "Consulenza Gratuita",
-            "Massima Professionalità",
-            "Preventivi su Misura"
-        ],
-        "about_us": "Cavaliere Biagio offre servizi eccellenti garantendo la massima competenza. Siamo pronti ad assisterti con professionalità e cortesia.",
-        "contact_phone": "+39 081 560 1312",
-        "address": "Via Mario Ruta, 26, 80128 Napoli NA, Italy",
-        "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449278.7375341314!2d9.06353296905437!3d45.44472950995973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMilano!5e1!3m2!1sit!2sit!4v1777294181826!5m2!1sit!2sit",
-        "opening_hours": {
-            "Lunedì": "9:00 - 18:00",
-            "Martedì": "9:00 - 18:00",
-            "Mercoledì": "9:00 - 18:00",
-            "Giovedì": "9:00 - 18:00",
-            "Venerdì": "9:00 - 18:00",
-            "Sabato": "10:00 - 14:00",
-            "Domenica": "Chiuso"
+        "meta": {
+            "company_name": "Cavaliere Biagio",
+            "primary_color": "#e11d48",
+            "secondary_color": "#f43f5e",
+            "main_service": "Calzolaio",
+            "city": "Napoli"
         },
-        "reviews": [
-            {
+        "hero": {
+            "badge": "Emergenza calzolaio a Napoli",
+            "title": "Hai un problema urgente con il tuo calzolaio?",
+            "subtitle": "Non perdere tempo. Offriamo interventi rapidi e perfetti a Napoli. Affidati a Cavaliere Biagio senza alcun rischio.",
+            "cta_primary": "Chiama Ora per un Intervento Rapido",
+            "cta_secondary": "Scopri i Servizi",
+            "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "image_alt": "calzolaio a Napoli"
+        },
+        "services": {
+            "title": "I Nostri Servizi",
+            "subtitle": "Soluzioni rapide per ogni tua esigenza.",
+            "items": [
+                "Interventi Rapidi",
+                "Lavorazioni su Misura",
+                "Materiali di Alta Qualità",
+                "Preventivi Trasparenti"
+            ]
+        },
+        "about": {
+            "title": "Perché Scegliere Noi a Napoli",
+            "description": "Cavaliere Biagio non è un semplice laboratorio: garantiamo un'attenzione ossessiva al dettaglio. Affidati a veri professionisti.",
+            "cta": "Richiedi un Preventivo"
+        },
+        "reviews": {
+            "title": "Non fidarti solo di noi",
+            "subtitle": "Ascolta chi ha già scelto i nostri servizi.",
+            "best_review": {
                 "name": "Local Guide",
-                "text": "Servizio fantastico e personale molto disponibile. Assolutamente consigliato!",
+                "text": "Lavoro perfetto e precisissimo! Consigliatissimo.",
                 "rating": 4.7
+            },
+            "items": [
+                {
+                    "name": "Cliente Entusiasta",
+                    "text": "Lavoro perfetto e precisissimo! Una vera garanzia.",
+                    "rating": 4.7
+                }
+            ]
+        },
+        "contact": {
+            "title": "Non Aspettare, Contattaci Ora",
+            "phone": "+39 081 560 1312",
+            "address": "Via Mario Ruta, 26, 80128 Napoli NA, Italy",
+            "phone_label": "Assistenza Immediata",
+            "phone_sublabel": "Siamo pronti ad aiutarti",
+            "address_label": "Vieni in Sede",
+            "hours_title": "Orari di Apertura",
+            "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.8680795410185!2d13.3330364!3d38.1631584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e8cf1689ea55%3A0xc47e3a968600125c!2sSartoria%20Elisa%20La%20bua!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit",
+            "opening_hours": {
+                "Lunedì": "9:00 - 18:00",
+                "Martedì": "9:00 - 18:00",
+                "Mercoledì": "9:00 - 18:00",
+                "Giovedì": "9:00 - 18:00",
+                "Venerdì": "9:00 - 18:00",
+                "Sabato": "9:00 - 13:00",
+                "Domenica": "Chiuso"
             }
-        ],
-        "_metadata": {
-            "rating": 4.7,
-            "reviews_count": 16,
-            "search_query": "calzolaio riparazioni Napoli"
+        },
+        "footer": {
+            "description": "Servizi eccellenti a Napoli."
         }
     },
     {
         "company_name": "La Bottega dell'Artigiano di Salvatore Ferrigno",
-        "hero_title": "Benvenuti da La Bottega dell'Artigiano di Salvatore Ferrigno",
-        "hero_subtitle": "Scopri i nostri servizi di alta qualità. Siamo fieri di offrire la migliore esperienza ai nostri clienti.",
-        "services": [
-            "Servizio Clienti Dedicato",
-            "Consulenza Gratuita",
-            "Massima Professionalità",
-            "Preventivi su Misura"
-        ],
-        "about_us": "La Bottega dell'Artigiano di Salvatore Ferrigno offre servizi eccellenti garantendo la massima competenza. Siamo pronti ad assisterti con professionalità e cortesia.",
-        "contact_phone": "+39 366 280 7069",
-        "address": "C.so Vittorio Emanuele, 477, 80135 Napoli NA, Italy",
-        "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449278.7375341314!2d9.06353296905437!3d45.44472950995973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMilano!5e1!3m2!1sit!2sit!4v1777294181826!5m2!1sit!2sit",
-        "opening_hours": {
-            "Lunedì": "9:00 - 18:00",
-            "Martedì": "9:00 - 18:00",
-            "Mercoledì": "9:00 - 18:00",
-            "Giovedì": "9:00 - 18:00",
-            "Venerdì": "9:00 - 18:00",
-            "Sabato": "10:00 - 14:00",
-            "Domenica": "Chiuso"
+        "meta": {
+            "company_name": "La Bottega dell'Artigiano di Salvatore Ferrigno",
+            "primary_color": "#e11d48",
+            "secondary_color": "#f43f5e",
+            "main_service": "Calzolaio",
+            "city": "Napoli"
         },
-        "reviews": [
-            {
+        "hero": {
+            "badge": "Emergenza calzolaio a Napoli",
+            "title": "Hai un problema urgente con il tuo calzolaio?",
+            "subtitle": "Non perdere tempo. Offriamo interventi rapidi e perfetti a Napoli. Affidati a La Bottega dell'Artigiano di Salvatore Ferrigno senza alcun rischio.",
+            "cta_primary": "Chiama Ora per un Intervento Rapido",
+            "cta_secondary": "Scopri i Servizi",
+            "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "image_alt": "calzolaio a Napoli"
+        },
+        "services": {
+            "title": "I Nostri Servizi",
+            "subtitle": "Soluzioni rapide per ogni tua esigenza.",
+            "items": [
+                "Interventi Rapidi",
+                "Lavorazioni su Misura",
+                "Materiali di Alta Qualità",
+                "Preventivi Trasparenti"
+            ]
+        },
+        "about": {
+            "title": "Perché Scegliere Noi a Napoli",
+            "description": "La Bottega dell'Artigiano di Salvatore Ferrigno non è un semplice laboratorio: garantiamo un'attenzione ossessiva al dettaglio. Affidati a veri professionisti.",
+            "cta": "Richiedi un Preventivo"
+        },
+        "reviews": {
+            "title": "Non fidarti solo di noi",
+            "subtitle": "Ascolta chi ha già scelto i nostri servizi.",
+            "best_review": {
                 "name": "Local Guide",
-                "text": "Servizio fantastico e personale molto disponibile. Assolutamente consigliato!",
+                "text": "Lavoro perfetto e precisissimo! Consigliatissimo.",
                 "rating": 4.6
+            },
+            "items": [
+                {
+                    "name": "Cliente Entusiasta",
+                    "text": "Lavoro perfetto e precisissimo! Una vera garanzia.",
+                    "rating": 4.6
+                }
+            ]
+        },
+        "contact": {
+            "title": "Non Aspettare, Contattaci Ora",
+            "phone": "+39 366 280 7069",
+            "address": "C.so Vittorio Emanuele, 477, 80135 Napoli NA, Italy",
+            "phone_label": "Assistenza Immediata",
+            "phone_sublabel": "Siamo pronti ad aiutarti",
+            "address_label": "Vieni in Sede",
+            "hours_title": "Orari di Apertura",
+            "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.8680795410185!2d13.3330364!3d38.1631584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e8cf1689ea55%3A0xc47e3a968600125c!2sSartoria%20Elisa%20La%20bua!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit",
+            "opening_hours": {
+                "Lunedì": "9:00 - 18:00",
+                "Martedì": "9:00 - 18:00",
+                "Mercoledì": "9:00 - 18:00",
+                "Giovedì": "9:00 - 18:00",
+                "Venerdì": "9:00 - 18:00",
+                "Sabato": "9:00 - 13:00",
+                "Domenica": "Chiuso"
             }
-        ],
-        "_metadata": {
-            "rating": 4.6,
-            "reviews_count": 29,
-            "search_query": "calzolaio riparazioni Napoli"
+        },
+        "footer": {
+            "description": "Servizi eccellenti a Napoli."
         }
     },
     {
         "company_name": "Mike Filip Calzolaio cuoio&stile",
-        "hero_title": "Benvenuti da Mike Filip Calzolaio cuoio&stile",
-        "hero_subtitle": "Scopri i nostri servizi di alta qualità. Siamo fieri di offrire la migliore esperienza ai nostri clienti.",
-        "services": [
-            "Servizio Clienti Dedicato",
-            "Consulenza Gratuita",
-            "Massima Professionalità",
-            "Preventivi su Misura"
-        ],
-        "about_us": "Mike Filip Calzolaio cuoio&stile offre servizi eccellenti garantendo la massima competenza. Siamo pronti ad assisterti con professionalità e cortesia.",
-        "contact_phone": "+39 081 1898 1953",
-        "address": "Via Bisignano, 11/interno palazzo, 80121 Napoli NA, Italy",
-        "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449278.7375341314!2d9.06353296905437!3d45.44472950995973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMilano!5e1!3m2!1sit!2sit!4v1777294181826!5m2!1sit!2sit",
-        "opening_hours": {
-            "Lunedì": "9:00 - 18:00",
-            "Martedì": "9:00 - 18:00",
-            "Mercoledì": "9:00 - 18:00",
-            "Giovedì": "9:00 - 18:00",
-            "Venerdì": "9:00 - 18:00",
-            "Sabato": "10:00 - 14:00",
-            "Domenica": "Chiuso"
+        "meta": {
+            "company_name": "Mike Filip Calzolaio cuoio&stile",
+            "primary_color": "#e11d48",
+            "secondary_color": "#f43f5e",
+            "main_service": "Calzolaio",
+            "city": "Napoli"
         },
-        "reviews": [
-            {
+        "hero": {
+            "badge": "Emergenza calzolaio a Napoli",
+            "title": "Hai un problema urgente con il tuo calzolaio?",
+            "subtitle": "Non perdere tempo. Offriamo interventi rapidi e perfetti a Napoli. Affidati a Mike Filip Calzolaio cuoio&stile senza alcun rischio.",
+            "cta_primary": "Chiama Ora per un Intervento Rapido",
+            "cta_secondary": "Scopri i Servizi",
+            "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "image_alt": "calzolaio a Napoli"
+        },
+        "services": {
+            "title": "I Nostri Servizi",
+            "subtitle": "Soluzioni rapide per ogni tua esigenza.",
+            "items": [
+                "Interventi Rapidi",
+                "Lavorazioni su Misura",
+                "Materiali di Alta Qualità",
+                "Preventivi Trasparenti"
+            ]
+        },
+        "about": {
+            "title": "Perché Scegliere Noi a Napoli",
+            "description": "Mike Filip Calzolaio cuoio&stile non è un semplice laboratorio: garantiamo un'attenzione ossessiva al dettaglio. Affidati a veri professionisti.",
+            "cta": "Richiedi un Preventivo"
+        },
+        "reviews": {
+            "title": "Non fidarti solo di noi",
+            "subtitle": "Ascolta chi ha già scelto i nostri servizi.",
+            "best_review": {
                 "name": "Local Guide",
-                "text": "Servizio fantastico e personale molto disponibile. Assolutamente consigliato!",
+                "text": "Lavoro perfetto e precisissimo! Consigliatissimo.",
                 "rating": 5
+            },
+            "items": [
+                {
+                    "name": "Cliente Entusiasta",
+                    "text": "Lavoro perfetto e precisissimo! Una vera garanzia.",
+                    "rating": 5
+                }
+            ]
+        },
+        "contact": {
+            "title": "Non Aspettare, Contattaci Ora",
+            "phone": "+39 081 1898 1953",
+            "address": "Via Bisignano, 11/interno palazzo, 80121 Napoli NA, Italy",
+            "phone_label": "Assistenza Immediata",
+            "phone_sublabel": "Siamo pronti ad aiutarti",
+            "address_label": "Vieni in Sede",
+            "hours_title": "Orari di Apertura",
+            "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.8680795410185!2d13.3330364!3d38.1631584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e8cf1689ea55%3A0xc47e3a968600125c!2sSartoria%20Elisa%20La%20bua!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit",
+            "opening_hours": {
+                "Lunedì": "9:00 - 18:00",
+                "Martedì": "9:00 - 18:00",
+                "Mercoledì": "9:00 - 18:00",
+                "Giovedì": "9:00 - 18:00",
+                "Venerdì": "9:00 - 18:00",
+                "Sabato": "9:00 - 13:00",
+                "Domenica": "Chiuso"
             }
-        ],
-        "_metadata": {
-            "rating": 5,
-            "reviews_count": 7,
-            "search_query": "calzolaio riparazioni Napoli"
+        },
+        "footer": {
+            "description": "Servizi eccellenti a Napoli."
         }
     },
     {
         "company_name": "Bove Angelo",
-        "hero_title": "Welcome to Bove Angelo",
-        "hero_subtitle": "Discover our high quality services. We pride ourselves on providing the best experience for our customers.",
-        "services": [
-            "Dedicated Customer Service",
-            "Free Consultation",
-            "Professional Approach",
-            "Custom Quotes"
-        ],
-        "about_us": "Bove Angelo provides excellent services ensuring maximum competence. We are ready to assist you.",
-        "contact_phone": "+39 0874 62054",
-        "address": "Via Giambattista Vico, 73, 86100 Campobasso CB, Italy",
-        "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449278.7375341314!2d9.06353296905437!3d45.44472950995973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMilano!5e1!3m2!1sit!2sit!4v1777294181826!5m2!1sit!2sit",
-        "opening_hours": {
-            "Lunedì": "9:00 - 18:00",
-            "Martedì": "9:00 - 18:00",
-            "Mercoledì": "9:00 - 18:00",
-            "Giovedì": "9:00 - 18:00",
-            "Venerdì": "9:00 - 18:00",
-            "Sabato": "10:00 - 14:00",
-            "Domenica": "Chiuso"
+        "meta": {
+            "company_name": "Bove Angelo",
+            "primary_color": "#e11d48",
+            "secondary_color": "#f43f5e",
+            "main_service": "Fabbro",
+            "city": "Campobasso"
         },
-        "reviews": [
-            {
+        "hero": {
+            "badge": "Emergenza fabbro a Campobasso",
+            "title": "Hai un problema urgente con il tuo fabbro?",
+            "subtitle": "Non perdere tempo. Offriamo interventi rapidi e perfetti a Campobasso. Affidati a Bove Angelo senza alcun rischio.",
+            "cta_primary": "Chiama Ora per un Intervento Rapido",
+            "cta_secondary": "Scopri i Servizi",
+            "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "image_alt": "fabbro a Campobasso"
+        },
+        "services": {
+            "title": "I Nostri Servizi",
+            "subtitle": "Soluzioni rapide per ogni tua esigenza.",
+            "items": [
+                "Interventi Rapidi",
+                "Lavorazioni su Misura",
+                "Materiali di Alta Qualità",
+                "Preventivi Trasparenti"
+            ]
+        },
+        "about": {
+            "title": "Perché Scegliere Noi a Campobasso",
+            "description": "Bove Angelo non è un semplice laboratorio: garantiamo un'attenzione ossessiva al dettaglio. Affidati a veri professionisti.",
+            "cta": "Richiedi un Preventivo"
+        },
+        "reviews": {
+            "title": "Non fidarti solo di noi",
+            "subtitle": "Ascolta chi ha già scelto i nostri servizi.",
+            "best_review": {
                 "name": "Local Guide",
-                "text": "Fantastic service and very helpful staff. Highly recommended!",
+                "text": "Lavoro perfetto e precisissimo! Consigliatissimo.",
                 "rating": 5
+            },
+            "items": [
+                {
+                    "name": "Cliente Entusiasta",
+                    "text": "Lavoro perfetto e precisissimo! Una vera garanzia.",
+                    "rating": 5
+                }
+            ]
+        },
+        "contact": {
+            "title": "Non Aspettare, Contattaci Ora",
+            "phone": "+39 0874 62054",
+            "address": "Via Giambattista Vico, 73, 86100 Campobasso CB, Italy",
+            "phone_label": "Assistenza Immediata",
+            "phone_sublabel": "Siamo pronti ad aiutarti",
+            "address_label": "Vieni in Sede",
+            "hours_title": "Orari di Apertura",
+            "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.8680795410185!2d13.3330364!3d38.1631584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e8cf1689ea55%3A0xc47e3a968600125c!2sSartoria%20Elisa%20La%20bua!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit",
+            "opening_hours": {
+                "Lunedì": "9:00 - 18:00",
+                "Martedì": "9:00 - 18:00",
+                "Mercoledì": "9:00 - 18:00",
+                "Giovedì": "9:00 - 18:00",
+                "Venerdì": "9:00 - 18:00",
+                "Sabato": "9:00 - 13:00",
+                "Domenica": "Chiuso"
             }
-        ],
-        "_metadata": {
-            "rating": 5,
-            "reviews_count": 2,
-            "search_query": "fabbro Campobasso"
+        },
+        "footer": {
+            "description": "Servizi eccellenti a Campobasso."
         }
     },
     {
         "company_name": "Ferramenta Di Evangelista Domenico",
-        "hero_title": "Welcome to Ferramenta Di Evangelista Domenico",
-        "hero_subtitle": "Discover our high quality services. We pride ourselves on providing the best experience for our customers.",
-        "services": [
-            "Dedicated Customer Service",
-            "Free Consultation",
-            "Professional Approach",
-            "Custom Quotes"
-        ],
-        "about_us": "Ferramenta Di Evangelista Domenico provides excellent services ensuring maximum competence. We are ready to assist you.",
-        "contact_phone": "+39 0874 63790",
-        "address": "Via XXV Aprile, 1, 86100 Campobasso CB, Italy",
-        "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449278.7375341314!2d9.06353296905437!3d45.44472950995973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMilano!5e1!3m2!1sit!2sit!4v1777294181826!5m2!1sit!2sit",
-        "opening_hours": {
-            "Lunedì": "9:00 - 18:00",
-            "Martedì": "9:00 - 18:00",
-            "Mercoledì": "9:00 - 18:00",
-            "Giovedì": "9:00 - 18:00",
-            "Venerdì": "9:00 - 18:00",
-            "Sabato": "10:00 - 14:00",
-            "Domenica": "Chiuso"
+        "meta": {
+            "company_name": "Ferramenta Di Evangelista Domenico",
+            "primary_color": "#e11d48",
+            "secondary_color": "#f43f5e",
+            "main_service": "Fabbro",
+            "city": "Campobasso"
         },
-        "reviews": [
-            {
+        "hero": {
+            "badge": "Emergenza fabbro a Campobasso",
+            "title": "Hai un problema urgente con il tuo fabbro?",
+            "subtitle": "Non perdere tempo. Offriamo interventi rapidi e perfetti a Campobasso. Affidati a Ferramenta Di Evangelista Domenico senza alcun rischio.",
+            "cta_primary": "Chiama Ora per un Intervento Rapido",
+            "cta_secondary": "Scopri i Servizi",
+            "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "image_alt": "fabbro a Campobasso"
+        },
+        "services": {
+            "title": "I Nostri Servizi",
+            "subtitle": "Soluzioni rapide per ogni tua esigenza.",
+            "items": [
+                "Interventi Rapidi",
+                "Lavorazioni su Misura",
+                "Materiali di Alta Qualità",
+                "Preventivi Trasparenti"
+            ]
+        },
+        "about": {
+            "title": "Perché Scegliere Noi a Campobasso",
+            "description": "Ferramenta Di Evangelista Domenico non è un semplice laboratorio: garantiamo un'attenzione ossessiva al dettaglio. Affidati a veri professionisti.",
+            "cta": "Richiedi un Preventivo"
+        },
+        "reviews": {
+            "title": "Non fidarti solo di noi",
+            "subtitle": "Ascolta chi ha già scelto i nostri servizi.",
+            "best_review": {
                 "name": "Local Guide",
-                "text": "Fantastic service and very helpful staff. Highly recommended!",
+                "text": "Lavoro perfetto e precisissimo! Consigliatissimo.",
                 "rating": 4.4
+            },
+            "items": [
+                {
+                    "name": "Cliente Entusiasta",
+                    "text": "Lavoro perfetto e precisissimo! Una vera garanzia.",
+                    "rating": 4.4
+                }
+            ]
+        },
+        "contact": {
+            "title": "Non Aspettare, Contattaci Ora",
+            "phone": "+39 0874 63790",
+            "address": "Via XXV Aprile, 1, 86100 Campobasso CB, Italy",
+            "phone_label": "Assistenza Immediata",
+            "phone_sublabel": "Siamo pronti ad aiutarti",
+            "address_label": "Vieni in Sede",
+            "hours_title": "Orari di Apertura",
+            "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.8680795410185!2d13.3330364!3d38.1631584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e8cf1689ea55%3A0xc47e3a968600125c!2sSartoria%20Elisa%20La%20bua!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit",
+            "opening_hours": {
+                "Lunedì": "9:00 - 18:00",
+                "Martedì": "9:00 - 18:00",
+                "Mercoledì": "9:00 - 18:00",
+                "Giovedì": "9:00 - 18:00",
+                "Venerdì": "9:00 - 18:00",
+                "Sabato": "9:00 - 13:00",
+                "Domenica": "Chiuso"
             }
-        ],
-        "_metadata": {
-            "rating": 4.4,
-            "reviews_count": 25,
-            "search_query": "fabbro Campobasso"
+        },
+        "footer": {
+            "description": "Servizi eccellenti a Campobasso."
         }
     },
     {
         "company_name": "La sartoria di Mariellina",
-        "hero_title": "Welcome to La sartoria di Mariellina",
-        "hero_subtitle": "Discover our high quality services. We pride ourselves on providing the best experience for our customers.",
-        "services": [
-            "Dedicated Customer Service",
-            "Free Consultation",
-            "Professional Approach",
-            "Custom Quotes"
-        ],
-        "about_us": "La sartoria di Mariellina provides excellent services ensuring maximum competence. We are ready to assist you.",
-        "contact_phone": "+39 324 699 7630",
-        "address": "Via Ludovico Ariosto, 25/B, 90144 Palermo PA, Italy",
-        "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449278.7375341314!2d9.06353296905437!3d45.44472950995973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMilano!5e1!3m2!1sit!2sit!4v1777294181826!5m2!1sit!2sit",
-        "opening_hours": {
-            "Lunedì": "9:00 - 18:00",
-            "Martedì": "9:00 - 18:00",
-            "Mercoledì": "9:00 - 18:00",
-            "Giovedì": "9:00 - 18:00",
-            "Venerdì": "9:00 - 18:00",
-            "Sabato": "10:00 - 14:00",
-            "Domenica": "Chiuso"
+        "meta": {
+            "company_name": "La sartoria di Mariellina",
+            "primary_color": "#e11d48",
+            "secondary_color": "#f43f5e",
+            "main_service": "Sartoria",
+            "city": "Palermo"
         },
-        "reviews": [
-            {
+        "hero": {
+            "badge": "Emergenza sartoria a Palermo",
+            "title": "Hai un problema urgente con il tuo sartoria?",
+            "subtitle": "Non perdere tempo. Offriamo interventi rapidi e perfetti a Palermo. Affidati a La sartoria di Mariellina senza alcun rischio.",
+            "cta_primary": "Chiama Ora per un Intervento Rapido",
+            "cta_secondary": "Scopri i Servizi",
+            "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "image_alt": "sartoria a Palermo"
+        },
+        "services": {
+            "title": "I Nostri Servizi",
+            "subtitle": "Soluzioni rapide per ogni tua esigenza.",
+            "items": [
+                "Interventi Rapidi",
+                "Lavorazioni su Misura",
+                "Materiali di Alta Qualità",
+                "Preventivi Trasparenti"
+            ]
+        },
+        "about": {
+            "title": "Perché Scegliere Noi a Palermo",
+            "description": "La sartoria di Mariellina non è un semplice laboratorio: garantiamo un'attenzione ossessiva al dettaglio. Affidati a veri professionisti.",
+            "cta": "Richiedi un Preventivo"
+        },
+        "reviews": {
+            "title": "Non fidarti solo di noi",
+            "subtitle": "Ascolta chi ha già scelto i nostri servizi.",
+            "best_review": {
                 "name": "Local Guide",
-                "text": "Fantastic service and very helpful staff. Highly recommended!",
+                "text": "Lavoro perfetto e precisissimo! Consigliatissimo.",
                 "rating": 4.8
+            },
+            "items": [
+                {
+                    "name": "Cliente Entusiasta",
+                    "text": "Lavoro perfetto e precisissimo! Una vera garanzia.",
+                    "rating": 4.8
+                }
+            ]
+        },
+        "contact": {
+            "title": "Non Aspettare, Contattaci Ora",
+            "phone": "+39 324 699 7630",
+            "address": "Via Ludovico Ariosto, 25/B, 90144 Palermo PA, Italy",
+            "phone_label": "Assistenza Immediata",
+            "phone_sublabel": "Siamo pronti ad aiutarti",
+            "address_label": "Vieni in Sede",
+            "hours_title": "Orari di Apertura",
+            "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.8680795410185!2d13.3330364!3d38.1631584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e8cf1689ea55%3A0xc47e3a968600125c!2sSartoria%20Elisa%20La%20bua!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit",
+            "opening_hours": {
+                "Lunedì": "9:00 - 18:00",
+                "Martedì": "9:00 - 18:00",
+                "Mercoledì": "9:00 - 18:00",
+                "Giovedì": "9:00 - 18:00",
+                "Venerdì": "9:00 - 18:00",
+                "Sabato": "9:00 - 13:00",
+                "Domenica": "Chiuso"
             }
-        ],
-        "_metadata": {
-            "rating": 4.8,
-            "reviews_count": 18,
-            "search_query": "sartoria riparazioni Palermo"
+        },
+        "footer": {
+            "description": "Servizi eccellenti a Palermo."
         }
     },
     {
         "company_name": "Sartoria Elisa La Bua",
-        "hero_title": "Welcome to Sartoria Elisa La Bua",
-        "hero_subtitle": "Discover our high quality services. We pride ourselves on providing the best experience for our customers.",
-        "services": [
-            "Dedicated Customer Service",
-            "Free Consultation",
-            "Professional Approach",
-            "Custom Quotes"
-        ],
-        "about_us": "Sartoria Elisa La Bua provides excellent services ensuring maximum competence. We are ready to assist you.",
-        "contact_phone": "+39 376 039 8459",
-        "address": "Via Danimarca, 20, 90146 Palermo PA, Italy",
-        "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449278.7375341314!2d9.06353296905437!3d45.44472950995973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMilano!5e1!3m2!1sit!2sit!4v1777294181826!5m2!1sit!2sit",
-        "opening_hours": {
-            "Lunedì": "9:00 - 18:00",
-            "Martedì": "9:00 - 18:00",
-            "Mercoledì": "9:00 - 18:00",
-            "Giovedì": "9:00 - 18:00",
-            "Venerdì": "9:00 - 18:00",
-            "Sabato": "10:00 - 14:00",
-            "Domenica": "Chiuso"
+        "meta": {
+            "company_name": "Sartoria Elisa La Bua",
+            "primary_color": "#e11d48",
+            "secondary_color": "#f43f5e",
+            "main_service": "Sartoria",
+            "city": "Palermo"
         },
-        "reviews": [
-            {
+        "hero": {
+            "badge": "Emergenza sartoria a Palermo",
+            "title": "Hai un problema urgente con il tuo sartoria?",
+            "subtitle": "Non perdere tempo. Offriamo interventi rapidi e perfetti a Palermo. Affidati a Sartoria Elisa La Bua senza alcun rischio.",
+            "cta_primary": "Chiama Ora per un Intervento Rapido",
+            "cta_secondary": "Scopri i Servizi",
+            "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "image_alt": "sartoria a Palermo"
+        },
+        "services": {
+            "title": "I Nostri Servizi",
+            "subtitle": "Soluzioni rapide per ogni tua esigenza.",
+            "items": [
+                "Interventi Rapidi",
+                "Lavorazioni su Misura",
+                "Materiali di Alta Qualità",
+                "Preventivi Trasparenti"
+            ]
+        },
+        "about": {
+            "title": "Perché Scegliere Noi a Palermo",
+            "description": "Sartoria Elisa La Bua non è un semplice laboratorio: garantiamo un'attenzione ossessiva al dettaglio. Affidati a veri professionisti.",
+            "cta": "Richiedi un Preventivo"
+        },
+        "reviews": {
+            "title": "Non fidarti solo di noi",
+            "subtitle": "Ascolta chi ha già scelto i nostri servizi.",
+            "best_review": {
                 "name": "Local Guide",
-                "text": "Fantastic service and very helpful staff. Highly recommended!",
+                "text": "Lavoro perfetto e precisissimo! Consigliatissimo.",
                 "rating": 5
+            },
+            "items": [
+                {
+                    "name": "Cliente Entusiasta",
+                    "text": "Lavoro perfetto e precisissimo! Una vera garanzia.",
+                    "rating": 5
+                }
+            ]
+        },
+        "contact": {
+            "title": "Non Aspettare, Contattaci Ora",
+            "phone": "+39 376 039 8459",
+            "address": "Via Danimarca, 20, 90146 Palermo PA, Italy",
+            "phone_label": "Assistenza Immediata",
+            "phone_sublabel": "Siamo pronti ad aiutarti",
+            "address_label": "Vieni in Sede",
+            "hours_title": "Orari di Apertura",
+            "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.8680795410185!2d13.3330364!3d38.1631584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e8cf1689ea55%3A0xc47e3a968600125c!2sSartoria%20Elisa%20La%20bua!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit",
+            "opening_hours": {
+                "Lunedì": "9:00 - 18:00",
+                "Martedì": "9:00 - 18:00",
+                "Mercoledì": "9:00 - 18:00",
+                "Giovedì": "9:00 - 18:00",
+                "Venerdì": "9:00 - 18:00",
+                "Sabato": "9:00 - 13:00",
+                "Domenica": "Chiuso"
             }
-        ],
-        "_metadata": {
-            "rating": 5,
-            "reviews_count": 22,
-            "search_query": "sartoria riparazioni Palermo"
+        },
+        "footer": {
+            "description": "Servizi eccellenti a Palermo."
         }
     },
     {
         "company_name": "Sartoria Anthea",
-        "hero_title": "Welcome to Sartoria Anthea",
-        "hero_subtitle": "Discover our high quality services. We pride ourselves on providing the best experience for our customers.",
-        "services": [
-            "Dedicated Customer Service",
-            "Free Consultation",
-            "Professional Approach",
-            "Custom Quotes"
-        ],
-        "about_us": "Sartoria Anthea provides excellent services ensuring maximum competence. We are ready to assist you.",
-        "contact_phone": "+39 091 327329",
-        "address": "V. Principe di Villafranca, 33, 90141 Palermo PA, Italy",
-        "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449278.7375341314!2d9.06353296905437!3d45.44472950995973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMilano!5e1!3m2!1sit!2sit!4v1777294181826!5m2!1sit!2sit",
-        "opening_hours": {
-            "Lunedì": "9:00 - 18:00",
-            "Martedì": "9:00 - 18:00",
-            "Mercoledì": "9:00 - 18:00",
-            "Giovedì": "9:00 - 18:00",
-            "Venerdì": "9:00 - 18:00",
-            "Sabato": "10:00 - 14:00",
-            "Domenica": "Chiuso"
+        "meta": {
+            "company_name": "Sartoria Anthea",
+            "primary_color": "#e11d48",
+            "secondary_color": "#f43f5e",
+            "main_service": "Sartoria",
+            "city": "Palermo"
         },
-        "reviews": [
-            {
+        "hero": {
+            "badge": "Emergenza sartoria a Palermo",
+            "title": "Hai un problema urgente con il tuo sartoria?",
+            "subtitle": "Non perdere tempo. Offriamo interventi rapidi e perfetti a Palermo. Affidati a Sartoria Anthea senza alcun rischio.",
+            "cta_primary": "Chiama Ora per un Intervento Rapido",
+            "cta_secondary": "Scopri i Servizi",
+            "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "image_alt": "sartoria a Palermo"
+        },
+        "services": {
+            "title": "I Nostri Servizi",
+            "subtitle": "Soluzioni rapide per ogni tua esigenza.",
+            "items": [
+                "Interventi Rapidi",
+                "Lavorazioni su Misura",
+                "Materiali di Alta Qualità",
+                "Preventivi Trasparenti"
+            ]
+        },
+        "about": {
+            "title": "Perché Scegliere Noi a Palermo",
+            "description": "Sartoria Anthea non è un semplice laboratorio: garantiamo un'attenzione ossessiva al dettaglio. Affidati a veri professionisti.",
+            "cta": "Richiedi un Preventivo"
+        },
+        "reviews": {
+            "title": "Non fidarti solo di noi",
+            "subtitle": "Ascolta chi ha già scelto i nostri servizi.",
+            "best_review": {
                 "name": "Local Guide",
-                "text": "Fantastic service and very helpful staff. Highly recommended!",
+                "text": "Lavoro perfetto e precisissimo! Consigliatissimo.",
                 "rating": 4.7
+            },
+            "items": [
+                {
+                    "name": "Cliente Entusiasta",
+                    "text": "Lavoro perfetto e precisissimo! Una vera garanzia.",
+                    "rating": 4.7
+                }
+            ]
+        },
+        "contact": {
+            "title": "Non Aspettare, Contattaci Ora",
+            "phone": "+39 091 327329",
+            "address": "V. Principe di Villafranca, 33, 90141 Palermo PA, Italy",
+            "phone_label": "Assistenza Immediata",
+            "phone_sublabel": "Siamo pronti ad aiutarti",
+            "address_label": "Vieni in Sede",
+            "hours_title": "Orari di Apertura",
+            "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.8680795410185!2d13.3330364!3d38.1631584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e8cf1689ea55%3A0xc47e3a968600125c!2sSartoria%20Elisa%20La%20bua!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit",
+            "opening_hours": {
+                "Lunedì": "9:00 - 18:00",
+                "Martedì": "9:00 - 18:00",
+                "Mercoledì": "9:00 - 18:00",
+                "Giovedì": "9:00 - 18:00",
+                "Venerdì": "9:00 - 18:00",
+                "Sabato": "9:00 - 13:00",
+                "Domenica": "Chiuso"
             }
-        ],
-        "_metadata": {
-            "rating": 4.7,
-            "reviews_count": 9,
-            "search_query": "sartoria riparazioni Palermo"
+        },
+        "footer": {
+            "description": "Servizi eccellenti a Palermo."
         }
     },
     {
         "company_name": "Sartoria Da Maria",
-        "hero_title": "Welcome to Sartoria Da Maria",
-        "hero_subtitle": "Discover our high quality services. We pride ourselves on providing the best experience for our customers.",
-        "services": [
-            "Dedicated Customer Service",
-            "Free Consultation",
-            "Professional Approach",
-            "Custom Quotes"
-        ],
-        "about_us": "Sartoria Da Maria provides excellent services ensuring maximum competence. We are ready to assist you.",
-        "contact_phone": "+39 380 694 7541",
-        "address": "Piazza Principe di Camporeale, 24A, 90138 Palermo PA, Italy",
-        "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449278.7375341314!2d9.06353296905437!3d45.44472950995973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMilano!5e1!3m2!1sit!2sit!4v1777294181826!5m2!1sit!2sit",
-        "opening_hours": {
-            "Lunedì": "9:00 - 18:00",
-            "Martedì": "9:00 - 18:00",
-            "Mercoledì": "9:00 - 18:00",
-            "Giovedì": "9:00 - 18:00",
-            "Venerdì": "9:00 - 18:00",
-            "Sabato": "10:00 - 14:00",
-            "Domenica": "Chiuso"
+        "meta": {
+            "company_name": "Sartoria Da Maria",
+            "primary_color": "#e11d48",
+            "secondary_color": "#f43f5e",
+            "main_service": "Sartoria",
+            "city": "Palermo"
         },
-        "reviews": [
-            {
+        "hero": {
+            "badge": "Emergenza sartoria a Palermo",
+            "title": "Hai un problema urgente con il tuo sartoria?",
+            "subtitle": "Non perdere tempo. Offriamo interventi rapidi e perfetti a Palermo. Affidati a Sartoria Da Maria senza alcun rischio.",
+            "cta_primary": "Chiama Ora per un Intervento Rapido",
+            "cta_secondary": "Scopri i Servizi",
+            "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "image_alt": "sartoria a Palermo"
+        },
+        "services": {
+            "title": "I Nostri Servizi",
+            "subtitle": "Soluzioni rapide per ogni tua esigenza.",
+            "items": [
+                "Interventi Rapidi",
+                "Lavorazioni su Misura",
+                "Materiali di Alta Qualità",
+                "Preventivi Trasparenti"
+            ]
+        },
+        "about": {
+            "title": "Perché Scegliere Noi a Palermo",
+            "description": "Sartoria Da Maria non è un semplice laboratorio: garantiamo un'attenzione ossessiva al dettaglio. Affidati a veri professionisti.",
+            "cta": "Richiedi un Preventivo"
+        },
+        "reviews": {
+            "title": "Non fidarti solo di noi",
+            "subtitle": "Ascolta chi ha già scelto i nostri servizi.",
+            "best_review": {
                 "name": "Local Guide",
-                "text": "Fantastic service and very helpful staff. Highly recommended!",
+                "text": "Lavoro perfetto e precisissimo! Consigliatissimo.",
                 "rating": 4.6
+            },
+            "items": [
+                {
+                    "name": "Cliente Entusiasta",
+                    "text": "Lavoro perfetto e precisissimo! Una vera garanzia.",
+                    "rating": 4.6
+                }
+            ]
+        },
+        "contact": {
+            "title": "Non Aspettare, Contattaci Ora",
+            "phone": "+39 380 694 7541",
+            "address": "Piazza Principe di Camporeale, 24A, 90138 Palermo PA, Italy",
+            "phone_label": "Assistenza Immediata",
+            "phone_sublabel": "Siamo pronti ad aiutarti",
+            "address_label": "Vieni in Sede",
+            "hours_title": "Orari di Apertura",
+            "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.8680795410185!2d13.3330364!3d38.1631584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e8cf1689ea55%3A0xc47e3a968600125c!2sSartoria%20Elisa%20La%20bua!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit",
+            "opening_hours": {
+                "Lunedì": "9:00 - 18:00",
+                "Martedì": "9:00 - 18:00",
+                "Mercoledì": "9:00 - 18:00",
+                "Giovedì": "9:00 - 18:00",
+                "Venerdì": "9:00 - 18:00",
+                "Sabato": "9:00 - 13:00",
+                "Domenica": "Chiuso"
             }
-        ],
-        "_metadata": {
-            "rating": 4.6,
-            "reviews_count": 11,
-            "search_query": "sartoria riparazioni Palermo"
+        },
+        "footer": {
+            "description": "Servizi eccellenti a Palermo."
         }
     },
     {
         "company_name": "Cucistiro Di Tirenna Rita",
-        "hero_title": "Welcome to Cucistiro Di Tirenna Rita",
-        "hero_subtitle": "Discover our high quality services. We pride ourselves on providing the best experience for our customers.",
-        "services": [
-            "Dedicated Customer Service",
-            "Free Consultation",
-            "Professional Approach",
-            "Custom Quotes"
-        ],
-        "about_us": "Cucistiro Di Tirenna Rita provides excellent services ensuring maximum competence. We are ready to assist you.",
-        "contact_phone": "+39 091 517074",
-        "address": "Vle del Fante, 20, 90146 Palermo PA, Italy",
-        "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449278.7375341314!2d9.06353296905437!3d45.44472950995973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMilano!5e1!3m2!1sit!2sit!4v1777294181826!5m2!1sit!2sit",
-        "opening_hours": {
-            "Lunedì": "9:00 - 18:00",
-            "Martedì": "9:00 - 18:00",
-            "Mercoledì": "9:00 - 18:00",
-            "Giovedì": "9:00 - 18:00",
-            "Venerdì": "9:00 - 18:00",
-            "Sabato": "10:00 - 14:00",
-            "Domenica": "Chiuso"
+        "meta": {
+            "company_name": "Cucistiro Di Tirenna Rita",
+            "primary_color": "#e11d48",
+            "secondary_color": "#f43f5e",
+            "main_service": "Sartoria",
+            "city": "Palermo"
         },
-        "reviews": [
-            {
+        "hero": {
+            "badge": "Emergenza sartoria a Palermo",
+            "title": "Hai un problema urgente con il tuo sartoria?",
+            "subtitle": "Non perdere tempo. Offriamo interventi rapidi e perfetti a Palermo. Affidati a Cucistiro Di Tirenna Rita senza alcun rischio.",
+            "cta_primary": "Chiama Ora per un Intervento Rapido",
+            "cta_secondary": "Scopri i Servizi",
+            "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "image_alt": "sartoria a Palermo"
+        },
+        "services": {
+            "title": "I Nostri Servizi",
+            "subtitle": "Soluzioni rapide per ogni tua esigenza.",
+            "items": [
+                "Interventi Rapidi",
+                "Lavorazioni su Misura",
+                "Materiali di Alta Qualità",
+                "Preventivi Trasparenti"
+            ]
+        },
+        "about": {
+            "title": "Perché Scegliere Noi a Palermo",
+            "description": "Cucistiro Di Tirenna Rita non è un semplice laboratorio: garantiamo un'attenzione ossessiva al dettaglio. Affidati a veri professionisti.",
+            "cta": "Richiedi un Preventivo"
+        },
+        "reviews": {
+            "title": "Non fidarti solo di noi",
+            "subtitle": "Ascolta chi ha già scelto i nostri servizi.",
+            "best_review": {
                 "name": "Local Guide",
-                "text": "Fantastic service and very helpful staff. Highly recommended!",
+                "text": "Lavoro perfetto e precisissimo! Consigliatissimo.",
                 "rating": 4.6
+            },
+            "items": [
+                {
+                    "name": "Cliente Entusiasta",
+                    "text": "Lavoro perfetto e precisissimo! Una vera garanzia.",
+                    "rating": 4.6
+                }
+            ]
+        },
+        "contact": {
+            "title": "Non Aspettare, Contattaci Ora",
+            "phone": "+39 091 517074",
+            "address": "Vle del Fante, 20, 90146 Palermo PA, Italy",
+            "phone_label": "Assistenza Immediata",
+            "phone_sublabel": "Siamo pronti ad aiutarti",
+            "address_label": "Vieni in Sede",
+            "hours_title": "Orari di Apertura",
+            "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.8680795410185!2d13.3330364!3d38.1631584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e8cf1689ea55%3A0xc47e3a968600125c!2sSartoria%20Elisa%20La%20bua!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit",
+            "opening_hours": {
+                "Lunedì": "9:00 - 18:00",
+                "Martedì": "9:00 - 18:00",
+                "Mercoledì": "9:00 - 18:00",
+                "Giovedì": "9:00 - 18:00",
+                "Venerdì": "9:00 - 18:00",
+                "Sabato": "9:00 - 13:00",
+                "Domenica": "Chiuso"
             }
-        ],
-        "_metadata": {
-            "rating": 4.6,
-            "reviews_count": 49,
-            "search_query": "sartoria riparazioni Palermo"
+        },
+        "footer": {
+            "description": "Servizi eccellenti a Palermo."
         }
     },
     {
         "company_name": "Sartoria Rosy Servizio Express",
-        "hero_title": "Welcome to Sartoria Rosy Servizio Express",
-        "hero_subtitle": "Discover our high quality services. We pride ourselves on providing the best experience for our customers.",
-        "services": [
-            "Dedicated Customer Service",
-            "Free Consultation",
-            "Professional Approach",
-            "Custom Quotes"
-        ],
-        "about_us": "Sartoria Rosy Servizio Express provides excellent services ensuring maximum competence. We are ready to assist you.",
-        "contact_phone": "+39 327 008 4050",
-        "address": "Via Partanna Mondello, 86, 90151 Palermo PA, Italy",
-        "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449278.7375341314!2d9.06353296905437!3d45.44472950995973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMilano!5e1!3m2!1sit!2sit!4v1777294181826!5m2!1sit!2sit",
-        "opening_hours": {
-            "Lunedì": "9:00 - 18:00",
-            "Martedì": "9:00 - 18:00",
-            "Mercoledì": "9:00 - 18:00",
-            "Giovedì": "9:00 - 18:00",
-            "Venerdì": "9:00 - 18:00",
-            "Sabato": "10:00 - 14:00",
-            "Domenica": "Chiuso"
+        "meta": {
+            "company_name": "Sartoria Rosy Servizio Express",
+            "primary_color": "#e11d48",
+            "secondary_color": "#f43f5e",
+            "main_service": "Sartoria",
+            "city": "Palermo"
         },
-        "reviews": [
-            {
+        "hero": {
+            "badge": "Emergenza sartoria a Palermo",
+            "title": "Hai un problema urgente con il tuo sartoria?",
+            "subtitle": "Non perdere tempo. Offriamo interventi rapidi e perfetti a Palermo. Affidati a Sartoria Rosy Servizio Express senza alcun rischio.",
+            "cta_primary": "Chiama Ora per un Intervento Rapido",
+            "cta_secondary": "Scopri i Servizi",
+            "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "image_alt": "sartoria a Palermo"
+        },
+        "services": {
+            "title": "I Nostri Servizi",
+            "subtitle": "Soluzioni rapide per ogni tua esigenza.",
+            "items": [
+                "Interventi Rapidi",
+                "Lavorazioni su Misura",
+                "Materiali di Alta Qualità",
+                "Preventivi Trasparenti"
+            ]
+        },
+        "about": {
+            "title": "Perché Scegliere Noi a Palermo",
+            "description": "Sartoria Rosy Servizio Express non è un semplice laboratorio: garantiamo un'attenzione ossessiva al dettaglio. Affidati a veri professionisti.",
+            "cta": "Richiedi un Preventivo"
+        },
+        "reviews": {
+            "title": "Non fidarti solo di noi",
+            "subtitle": "Ascolta chi ha già scelto i nostri servizi.",
+            "best_review": {
                 "name": "Local Guide",
-                "text": "Fantastic service and very helpful staff. Highly recommended!",
+                "text": "Lavoro perfetto e precisissimo! Consigliatissimo.",
                 "rating": 4.8
+            },
+            "items": [
+                {
+                    "name": "Cliente Entusiasta",
+                    "text": "Lavoro perfetto e precisissimo! Una vera garanzia.",
+                    "rating": 4.8
+                }
+            ]
+        },
+        "contact": {
+            "title": "Non Aspettare, Contattaci Ora",
+            "phone": "+39 327 008 4050",
+            "address": "Via Partanna Mondello, 86, 90151 Palermo PA, Italy",
+            "phone_label": "Assistenza Immediata",
+            "phone_sublabel": "Siamo pronti ad aiutarti",
+            "address_label": "Vieni in Sede",
+            "hours_title": "Orari di Apertura",
+            "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.8680795410185!2d13.3330364!3d38.1631584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e8cf1689ea55%3A0xc47e3a968600125c!2sSartoria%20Elisa%20La%20bua!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit",
+            "opening_hours": {
+                "Lunedì": "9:00 - 18:00",
+                "Martedì": "9:00 - 18:00",
+                "Mercoledì": "9:00 - 18:00",
+                "Giovedì": "9:00 - 18:00",
+                "Venerdì": "9:00 - 18:00",
+                "Sabato": "9:00 - 13:00",
+                "Domenica": "Chiuso"
             }
-        ],
-        "_metadata": {
-            "rating": 4.8,
-            "reviews_count": 33,
-            "search_query": "sartoria riparazioni Palermo"
+        },
+        "footer": {
+            "description": "Servizi eccellenti a Palermo."
         }
     },
     {
         "company_name": "Filo D'oro",
-        "hero_title": "Welcome to Filo D'oro",
-        "hero_subtitle": "Discover our high quality services. We pride ourselves on providing the best experience for our customers.",
-        "services": [
-            "Dedicated Customer Service",
-            "Free Consultation",
-            "Professional Approach",
-            "Custom Quotes"
-        ],
-        "about_us": "Filo D'oro provides excellent services ensuring maximum competence. We are ready to assist you.",
-        "contact_phone": "+39 389 897 9264",
-        "address": "Via Simone Cuccia, 9, 90146 Palermo PA, Italy",
-        "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449278.7375341314!2d9.06353296905437!3d45.44472950995973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMilano!5e1!3m2!1sit!2sit!4v1777294181826!5m2!1sit!2sit",
-        "opening_hours": {
-            "Lunedì": "9:00 - 18:00",
-            "Martedì": "9:00 - 18:00",
-            "Mercoledì": "9:00 - 18:00",
-            "Giovedì": "9:00 - 18:00",
-            "Venerdì": "9:00 - 18:00",
-            "Sabato": "10:00 - 14:00",
-            "Domenica": "Chiuso"
+        "meta": {
+            "company_name": "Filo D'oro",
+            "primary_color": "#e11d48",
+            "secondary_color": "#f43f5e",
+            "main_service": "Sartoria",
+            "city": "Palermo"
         },
-        "reviews": [
-            {
+        "hero": {
+            "badge": "Emergenza sartoria a Palermo",
+            "title": "Hai un problema urgente con il tuo sartoria?",
+            "subtitle": "Non perdere tempo. Offriamo interventi rapidi e perfetti a Palermo. Affidati a Filo D'oro senza alcun rischio.",
+            "cta_primary": "Chiama Ora per un Intervento Rapido",
+            "cta_secondary": "Scopri i Servizi",
+            "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "image_alt": "sartoria a Palermo"
+        },
+        "services": {
+            "title": "I Nostri Servizi",
+            "subtitle": "Soluzioni rapide per ogni tua esigenza.",
+            "items": [
+                "Interventi Rapidi",
+                "Lavorazioni su Misura",
+                "Materiali di Alta Qualità",
+                "Preventivi Trasparenti"
+            ]
+        },
+        "about": {
+            "title": "Perché Scegliere Noi a Palermo",
+            "description": "Filo D'oro non è un semplice laboratorio: garantiamo un'attenzione ossessiva al dettaglio. Affidati a veri professionisti.",
+            "cta": "Richiedi un Preventivo"
+        },
+        "reviews": {
+            "title": "Non fidarti solo di noi",
+            "subtitle": "Ascolta chi ha già scelto i nostri servizi.",
+            "best_review": {
                 "name": "Local Guide",
-                "text": "Fantastic service and very helpful staff. Highly recommended!",
+                "text": "Lavoro perfetto e precisissimo! Consigliatissimo.",
                 "rating": 5
+            },
+            "items": [
+                {
+                    "name": "Cliente Entusiasta",
+                    "text": "Lavoro perfetto e precisissimo! Una vera garanzia.",
+                    "rating": 5
+                }
+            ]
+        },
+        "contact": {
+            "title": "Non Aspettare, Contattaci Ora",
+            "phone": "+39 389 897 9264",
+            "address": "Via Simone Cuccia, 9, 90146 Palermo PA, Italy",
+            "phone_label": "Assistenza Immediata",
+            "phone_sublabel": "Siamo pronti ad aiutarti",
+            "address_label": "Vieni in Sede",
+            "hours_title": "Orari di Apertura",
+            "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.8680795410185!2d13.3330364!3d38.1631584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e8cf1689ea55%3A0xc47e3a968600125c!2sSartoria%20Elisa%20La%20bua!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit",
+            "opening_hours": {
+                "Lunedì": "9:00 - 18:00",
+                "Martedì": "9:00 - 18:00",
+                "Mercoledì": "9:00 - 18:00",
+                "Giovedì": "9:00 - 18:00",
+                "Venerdì": "9:00 - 18:00",
+                "Sabato": "9:00 - 13:00",
+                "Domenica": "Chiuso"
             }
-        ],
-        "_metadata": {
-            "rating": 5,
-            "reviews_count": 4,
-            "search_query": "sartoria riparazioni Palermo"
+        },
+        "footer": {
+            "description": "Servizi eccellenti a Palermo."
         }
     },
     {
         "company_name": "Sartoria Carmelo",
-        "hero_title": "Welcome to Sartoria Carmelo",
-        "hero_subtitle": "Discover our high quality services. We pride ourselves on providing the best experience for our customers.",
-        "services": [
-            "Dedicated Customer Service",
-            "Free Consultation",
-            "Professional Approach",
-            "Custom Quotes"
-        ],
-        "about_us": "Sartoria Carmelo provides excellent services ensuring maximum competence. We are ready to assist you.",
-        "contact_phone": "+39 342 573 2884",
-        "address": "C.so Calatafimi, 811, 90129 Palermo PA, Italy",
-        "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449278.7375341314!2d9.06353296905437!3d45.44472950995973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMilano!5e1!3m2!1sit!2sit!4v1777294181826!5m2!1sit!2sit",
-        "opening_hours": {
-            "Lunedì": "9:00 - 18:00",
-            "Martedì": "9:00 - 18:00",
-            "Mercoledì": "9:00 - 18:00",
-            "Giovedì": "9:00 - 18:00",
-            "Venerdì": "9:00 - 18:00",
-            "Sabato": "10:00 - 14:00",
-            "Domenica": "Chiuso"
+        "meta": {
+            "company_name": "Sartoria Carmelo",
+            "primary_color": "#e11d48",
+            "secondary_color": "#f43f5e",
+            "main_service": "Sartoria",
+            "city": "Palermo"
         },
-        "reviews": [
-            {
+        "hero": {
+            "badge": "Emergenza sartoria a Palermo",
+            "title": "Hai un problema urgente con il tuo sartoria?",
+            "subtitle": "Non perdere tempo. Offriamo interventi rapidi e perfetti a Palermo. Affidati a Sartoria Carmelo senza alcun rischio.",
+            "cta_primary": "Chiama Ora per un Intervento Rapido",
+            "cta_secondary": "Scopri i Servizi",
+            "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "image_alt": "sartoria a Palermo"
+        },
+        "services": {
+            "title": "I Nostri Servizi",
+            "subtitle": "Soluzioni rapide per ogni tua esigenza.",
+            "items": [
+                "Interventi Rapidi",
+                "Lavorazioni su Misura",
+                "Materiali di Alta Qualità",
+                "Preventivi Trasparenti"
+            ]
+        },
+        "about": {
+            "title": "Perché Scegliere Noi a Palermo",
+            "description": "Sartoria Carmelo non è un semplice laboratorio: garantiamo un'attenzione ossessiva al dettaglio. Affidati a veri professionisti.",
+            "cta": "Richiedi un Preventivo"
+        },
+        "reviews": {
+            "title": "Non fidarti solo di noi",
+            "subtitle": "Ascolta chi ha già scelto i nostri servizi.",
+            "best_review": {
                 "name": "Local Guide",
-                "text": "Fantastic service and very helpful staff. Highly recommended!",
+                "text": "Lavoro perfetto e precisissimo! Consigliatissimo.",
                 "rating": 5
-            }
-        ],
-        "_metadata": {
-            "rating": 5,
-            "reviews_count": 2,
-            "search_query": "sartoria riparazioni Palermo"
-        }
-    },
-    {
-        "company_name": "Filmoda",
-        "hero_title": "Welcome to Filmoda",
-        "hero_subtitle": "Discover our high quality services. We pride ourselves on providing the best experience for our customers.",
-        "services": [
-            "Dedicated Customer Service",
-            "Free Consultation",
-            "Professional Approach",
-            "Custom Quotes"
-        ],
-        "about_us": "Filmoda provides excellent services ensuring maximum competence. We are ready to assist you.",
-        "contact_phone": "+39 080 523 5487",
-        "address": "Via Alessandro Manzoni, 114, 70122 Bari BA, Italy",
-        "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449278.7375341314!2d9.06353296905437!3d45.44472950995973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMilano!5e1!3m2!1sit!2sit!4v1777294181826!5m2!1sit!2sit",
-        "opening_hours": {
-            "Lunedì": "9:00 - 18:00",
-            "Martedì": "9:00 - 18:00",
-            "Mercoledì": "9:00 - 18:00",
-            "Giovedì": "9:00 - 18:00",
-            "Venerdì": "9:00 - 18:00",
-            "Sabato": "10:00 - 14:00",
-            "Domenica": "Chiuso"
+            },
+            "items": [
+                {
+                    "name": "Cliente Entusiasta",
+                    "text": "Lavoro perfetto e precisissimo! Una vera garanzia.",
+                    "rating": 5
+                }
+            ]
         },
-        "reviews": [
-            {
-                "name": "Local Guide",
-                "text": "Fantastic service and very helpful staff. Highly recommended!",
-                "rating": 4.5
+        "contact": {
+            "title": "Non Aspettare, Contattaci Ora",
+            "phone": "+39 342 573 2884",
+            "address": "C.so Calatafimi, 811, 90129 Palermo PA, Italy",
+            "phone_label": "Assistenza Immediata",
+            "phone_sublabel": "Siamo pronti ad aiutarti",
+            "address_label": "Vieni in Sede",
+            "hours_title": "Orari di Apertura",
+            "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.8680795410185!2d13.3330364!3d38.1631584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e8cf1689ea55%3A0xc47e3a968600125c!2sSartoria%20Elisa%20La%20bua!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit",
+            "opening_hours": {
+                "Lunedì": "9:00 - 18:00",
+                "Martedì": "9:00 - 18:00",
+                "Mercoledì": "9:00 - 18:00",
+                "Giovedì": "9:00 - 18:00",
+                "Venerdì": "9:00 - 18:00",
+                "Sabato": "9:00 - 13:00",
+                "Domenica": "Chiuso"
             }
-        ],
-        "_metadata": {
-            "rating": 4.5,
-            "reviews_count": 38,
-            "search_query": "merceria Bari"
-        }
-    },
-    {
-        "company_name": "Merceria Manzari",
-        "hero_title": "Welcome to Merceria Manzari",
-        "hero_subtitle": "Discover our high quality services. We pride ourselves on providing the best experience for our customers.",
-        "services": [
-            "Dedicated Customer Service",
-            "Free Consultation",
-            "Professional Approach",
-            "Custom Quotes"
-        ],
-        "about_us": "Merceria Manzari provides excellent services ensuring maximum competence. We are ready to assist you.",
-        "contact_phone": "+39 080 502 4130",
-        "address": "Corso Alcide de Gasperi, 341, 70125 Bari BA, Italy",
-        "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449278.7375341314!2d9.06353296905437!3d45.44472950995973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMilano!5e1!3m2!1sit!2sit!4v1777294181826!5m2!1sit!2sit",
-        "opening_hours": {
-            "Lunedì": "9:00 - 18:00",
-            "Martedì": "9:00 - 18:00",
-            "Mercoledì": "9:00 - 18:00",
-            "Giovedì": "9:00 - 18:00",
-            "Venerdì": "9:00 - 18:00",
-            "Sabato": "10:00 - 14:00",
-            "Domenica": "Chiuso"
         },
-        "reviews": [
-            {
-                "name": "Local Guide",
-                "text": "Fantastic service and very helpful staff. Highly recommended!",
-                "rating": 4.7
-            }
-        ],
-        "_metadata": {
-            "rating": 4.7,
-            "reviews_count": 45,
-            "search_query": "merceria Bari"
+        "footer": {
+            "description": "Servizi eccellenti a Palermo."
         }
     },
     {
         "company_name": "Ragusa Merceria",
-        "hero_title": "Welcome to Ragusa Merceria",
-        "hero_subtitle": "Discover our high quality services. We pride ourselves on providing the best experience for our customers.",
-        "services": [
-            "Dedicated Customer Service",
-            "Free Consultation",
-            "Professional Approach",
-            "Custom Quotes"
-        ],
-        "about_us": "Ragusa Merceria provides excellent services ensuring maximum competence. We are ready to assist you.",
-        "contact_phone": "+39 377 671 7816",
-        "address": "Indirizzo non specificato",
-        "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449278.7375341314!2d9.06353296905437!3d45.44472950995973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMilano!5e1!3m2!1sit!2sit!4v1777294181826!5m2!1sit!2sit",
-        "opening_hours": {
-            "Lunedì": "9:00 - 18:00",
-            "Martedì": "9:00 - 18:00",
-            "Mercoledì": "9:00 - 18:00",
-            "Giovedì": "9:00 - 18:00",
-            "Venerdì": "9:00 - 18:00",
-            "Sabato": "10:00 - 14:00",
-            "Domenica": "Chiuso"
+        "meta": {
+            "company_name": "Ragusa Merceria",
+            "primary_color": "#e11d48",
+            "secondary_color": "#f43f5e",
+            "main_service": "Merceria",
+            "city": "Bari"
         },
-        "reviews": [
-            {
+        "hero": {
+            "badge": "Emergenza merceria a Bari",
+            "title": "Hai un problema urgente con il tuo merceria?",
+            "subtitle": "Non perdere tempo. Offriamo interventi rapidi e perfetti a Bari. Affidati a Ragusa Merceria senza alcun rischio.",
+            "cta_primary": "Chiama Ora per un Intervento Rapido",
+            "cta_secondary": "Scopri i Servizi",
+            "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "image_alt": "merceria a Bari"
+        },
+        "services": {
+            "title": "I Nostri Servizi",
+            "subtitle": "Soluzioni rapide per ogni tua esigenza.",
+            "items": [
+                "Interventi Rapidi",
+                "Lavorazioni su Misura",
+                "Materiali di Alta Qualità",
+                "Preventivi Trasparenti"
+            ]
+        },
+        "about": {
+            "title": "Perché Scegliere Noi a Bari",
+            "description": "Ragusa Merceria non è un semplice laboratorio: garantiamo un'attenzione ossessiva al dettaglio. Affidati a veri professionisti.",
+            "cta": "Richiedi un Preventivo"
+        },
+        "reviews": {
+            "title": "Non fidarti solo di noi",
+            "subtitle": "Ascolta chi ha già scelto i nostri servizi.",
+            "best_review": {
                 "name": "Local Guide",
-                "text": "Fantastic service and very helpful staff. Highly recommended!",
+                "text": "Lavoro perfetto e precisissimo! Consigliatissimo.",
                 "rating": 4.8
+            },
+            "items": [
+                {
+                    "name": "Cliente Entusiasta",
+                    "text": "Lavoro perfetto e precisissimo! Una vera garanzia.",
+                    "rating": 4.8
+                }
+            ]
+        },
+        "contact": {
+            "title": "Non Aspettare, Contattaci Ora",
+            "phone": "+39 377 671 7816",
+            "address": "Indirizzo non specificato",
+            "phone_label": "Assistenza Immediata",
+            "phone_sublabel": "Siamo pronti ad aiutarti",
+            "address_label": "Vieni in Sede",
+            "hours_title": "Orari di Apertura",
+            "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.8680795410185!2d13.3330364!3d38.1631584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e8cf1689ea55%3A0xc47e3a968600125c!2sSartoria%20Elisa%20La%20bua!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit",
+            "opening_hours": {
+                "Lunedì": "9:00 - 18:00",
+                "Martedì": "9:00 - 18:00",
+                "Mercoledì": "9:00 - 18:00",
+                "Giovedì": "9:00 - 18:00",
+                "Venerdì": "9:00 - 18:00",
+                "Sabato": "9:00 - 13:00",
+                "Domenica": "Chiuso"
             }
-        ],
-        "_metadata": {
-            "rating": 4.8,
-            "reviews_count": 22,
-            "search_query": "merceria Bari"
+        },
+        "footer": {
+            "description": "Servizi eccellenti a Bari."
+        }
+    },
+    {
+        "company_name": "Filmoda",
+        "meta": {
+            "company_name": "Filmoda",
+            "primary_color": "#e11d48",
+            "secondary_color": "#f43f5e",
+            "main_service": "Merceria",
+            "city": "Bari"
+        },
+        "hero": {
+            "badge": "Emergenza merceria a Bari",
+            "title": "Hai un problema urgente con il tuo merceria?",
+            "subtitle": "Non perdere tempo. Offriamo interventi rapidi e perfetti a Bari. Affidati a Filmoda senza alcun rischio.",
+            "cta_primary": "Chiama Ora per un Intervento Rapido",
+            "cta_secondary": "Scopri i Servizi",
+            "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "image_alt": "merceria a Bari"
+        },
+        "services": {
+            "title": "I Nostri Servizi",
+            "subtitle": "Soluzioni rapide per ogni tua esigenza.",
+            "items": [
+                "Interventi Rapidi",
+                "Lavorazioni su Misura",
+                "Materiali di Alta Qualità",
+                "Preventivi Trasparenti"
+            ]
+        },
+        "about": {
+            "title": "Perché Scegliere Noi a Bari",
+            "description": "Filmoda non è un semplice laboratorio: garantiamo un'attenzione ossessiva al dettaglio. Affidati a veri professionisti.",
+            "cta": "Richiedi un Preventivo"
+        },
+        "reviews": {
+            "title": "Non fidarti solo di noi",
+            "subtitle": "Ascolta chi ha già scelto i nostri servizi.",
+            "best_review": {
+                "name": "Local Guide",
+                "text": "Lavoro perfetto e precisissimo! Consigliatissimo.",
+                "rating": 4.5
+            },
+            "items": [
+                {
+                    "name": "Cliente Entusiasta",
+                    "text": "Lavoro perfetto e precisissimo! Una vera garanzia.",
+                    "rating": 4.5
+                }
+            ]
+        },
+        "contact": {
+            "title": "Non Aspettare, Contattaci Ora",
+            "phone": "+39 080 523 5487",
+            "address": "Via Alessandro Manzoni, 114, 70122 Bari BA, Italy",
+            "phone_label": "Assistenza Immediata",
+            "phone_sublabel": "Siamo pronti ad aiutarti",
+            "address_label": "Vieni in Sede",
+            "hours_title": "Orari di Apertura",
+            "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.8680795410185!2d13.3330364!3d38.1631584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e8cf1689ea55%3A0xc47e3a968600125c!2sSartoria%20Elisa%20La%20bua!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit",
+            "opening_hours": {
+                "Lunedì": "9:00 - 18:00",
+                "Martedì": "9:00 - 18:00",
+                "Mercoledì": "9:00 - 18:00",
+                "Giovedì": "9:00 - 18:00",
+                "Venerdì": "9:00 - 18:00",
+                "Sabato": "9:00 - 13:00",
+                "Domenica": "Chiuso"
+            }
+        },
+        "footer": {
+            "description": "Servizi eccellenti a Bari."
+        }
+    },
+    {
+        "company_name": "Merceria Manzari",
+        "meta": {
+            "company_name": "Merceria Manzari",
+            "primary_color": "#e11d48",
+            "secondary_color": "#f43f5e",
+            "main_service": "Merceria",
+            "city": "Bari"
+        },
+        "hero": {
+            "badge": "Emergenza merceria a Bari",
+            "title": "Hai un problema urgente con il tuo merceria?",
+            "subtitle": "Non perdere tempo. Offriamo interventi rapidi e perfetti a Bari. Affidati a Merceria Manzari senza alcun rischio.",
+            "cta_primary": "Chiama Ora per un Intervento Rapido",
+            "cta_secondary": "Scopri i Servizi",
+            "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "image_alt": "merceria a Bari"
+        },
+        "services": {
+            "title": "I Nostri Servizi",
+            "subtitle": "Soluzioni rapide per ogni tua esigenza.",
+            "items": [
+                "Interventi Rapidi",
+                "Lavorazioni su Misura",
+                "Materiali di Alta Qualità",
+                "Preventivi Trasparenti"
+            ]
+        },
+        "about": {
+            "title": "Perché Scegliere Noi a Bari",
+            "description": "Merceria Manzari non è un semplice laboratorio: garantiamo un'attenzione ossessiva al dettaglio. Affidati a veri professionisti.",
+            "cta": "Richiedi un Preventivo"
+        },
+        "reviews": {
+            "title": "Non fidarti solo di noi",
+            "subtitle": "Ascolta chi ha già scelto i nostri servizi.",
+            "best_review": {
+                "name": "Local Guide",
+                "text": "Lavoro perfetto e precisissimo! Consigliatissimo.",
+                "rating": 4.7
+            },
+            "items": [
+                {
+                    "name": "Cliente Entusiasta",
+                    "text": "Lavoro perfetto e precisissimo! Una vera garanzia.",
+                    "rating": 4.7
+                }
+            ]
+        },
+        "contact": {
+            "title": "Non Aspettare, Contattaci Ora",
+            "phone": "+39 080 502 4130",
+            "address": "Corso Alcide de Gasperi, 341, 70125 Bari BA, Italy",
+            "phone_label": "Assistenza Immediata",
+            "phone_sublabel": "Siamo pronti ad aiutarti",
+            "address_label": "Vieni in Sede",
+            "hours_title": "Orari di Apertura",
+            "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.8680795410185!2d13.3330364!3d38.1631584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e8cf1689ea55%3A0xc47e3a968600125c!2sSartoria%20Elisa%20La%20bua!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit",
+            "opening_hours": {
+                "Lunedì": "9:00 - 18:00",
+                "Martedì": "9:00 - 18:00",
+                "Mercoledì": "9:00 - 18:00",
+                "Giovedì": "9:00 - 18:00",
+                "Venerdì": "9:00 - 18:00",
+                "Sabato": "9:00 - 13:00",
+                "Domenica": "Chiuso"
+            }
+        },
+        "footer": {
+            "description": "Servizi eccellenti a Bari."
         }
     },
     {
         "company_name": "La Merceria",
-        "hero_title": "Welcome to La Merceria",
-        "hero_subtitle": "Discover our high quality services. We pride ourselves on providing the best experience for our customers.",
-        "services": [
-            "Dedicated Customer Service",
-            "Free Consultation",
-            "Professional Approach",
-            "Custom Quotes"
-        ],
-        "about_us": "La Merceria provides excellent services ensuring maximum competence. We are ready to assist you.",
-        "contact_phone": "+39 080 403 9678",
-        "address": "Viale Papa Giovanni XXIII, 79, 70124 Bari BA, Italy",
-        "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449278.7375341314!2d9.06353296905437!3d45.44472950995973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMilano!5e1!3m2!1sit!2sit!4v1777294181826!5m2!1sit!2sit",
-        "opening_hours": {
-            "Lunedì": "9:00 - 18:00",
-            "Martedì": "9:00 - 18:00",
-            "Mercoledì": "9:00 - 18:00",
-            "Giovedì": "9:00 - 18:00",
-            "Venerdì": "9:00 - 18:00",
-            "Sabato": "10:00 - 14:00",
-            "Domenica": "Chiuso"
+        "meta": {
+            "company_name": "La Merceria",
+            "primary_color": "#e11d48",
+            "secondary_color": "#f43f5e",
+            "main_service": "Merceria",
+            "city": "Bari"
         },
-        "reviews": [
-            {
+        "hero": {
+            "badge": "Emergenza merceria a Bari",
+            "title": "Hai un problema urgente con il tuo merceria?",
+            "subtitle": "Non perdere tempo. Offriamo interventi rapidi e perfetti a Bari. Affidati a La Merceria senza alcun rischio.",
+            "cta_primary": "Chiama Ora per un Intervento Rapido",
+            "cta_secondary": "Scopri i Servizi",
+            "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "image_alt": "merceria a Bari"
+        },
+        "services": {
+            "title": "I Nostri Servizi",
+            "subtitle": "Soluzioni rapide per ogni tua esigenza.",
+            "items": [
+                "Interventi Rapidi",
+                "Lavorazioni su Misura",
+                "Materiali di Alta Qualità",
+                "Preventivi Trasparenti"
+            ]
+        },
+        "about": {
+            "title": "Perché Scegliere Noi a Bari",
+            "description": "La Merceria non è un semplice laboratorio: garantiamo un'attenzione ossessiva al dettaglio. Affidati a veri professionisti.",
+            "cta": "Richiedi un Preventivo"
+        },
+        "reviews": {
+            "title": "Non fidarti solo di noi",
+            "subtitle": "Ascolta chi ha già scelto i nostri servizi.",
+            "best_review": {
                 "name": "Local Guide",
-                "text": "Fantastic service and very helpful staff. Highly recommended!",
+                "text": "Lavoro perfetto e precisissimo! Consigliatissimo.",
                 "rating": 5
+            },
+            "items": [
+                {
+                    "name": "Cliente Entusiasta",
+                    "text": "Lavoro perfetto e precisissimo! Una vera garanzia.",
+                    "rating": 5
+                }
+            ]
+        },
+        "contact": {
+            "title": "Non Aspettare, Contattaci Ora",
+            "phone": "+39 080 403 9678",
+            "address": "Viale Papa Giovanni XXIII, 79, 70124 Bari BA, Italy",
+            "phone_label": "Assistenza Immediata",
+            "phone_sublabel": "Siamo pronti ad aiutarti",
+            "address_label": "Vieni in Sede",
+            "hours_title": "Orari di Apertura",
+            "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.8680795410185!2d13.3330364!3d38.1631584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e8cf1689ea55%3A0xc47e3a968600125c!2sSartoria%20Elisa%20La%20bua!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit",
+            "opening_hours": {
+                "Lunedì": "9:00 - 18:00",
+                "Martedì": "9:00 - 18:00",
+                "Mercoledì": "9:00 - 18:00",
+                "Giovedì": "9:00 - 18:00",
+                "Venerdì": "9:00 - 18:00",
+                "Sabato": "9:00 - 13:00",
+                "Domenica": "Chiuso"
             }
-        ],
-        "_metadata": {
-            "rating": 5,
-            "reviews_count": 1,
-            "search_query": "merceria Bari"
+        },
+        "footer": {
+            "description": "Servizi eccellenti a Bari."
         }
     },
     {
-        "company_name": "L'intimo, merceria e negozio di filati",
-        "hero_title": "Welcome to L'intimo, merceria e negozio di filati",
-        "hero_subtitle": "Discover our high quality services. We pride ourselves on providing the best experience for our customers.",
-        "services": [
-            "Dedicated Customer Service",
-            "Free Consultation",
-            "Professional Approach",
-            "Custom Quotes"
-        ],
-        "about_us": "L'intimo, merceria e negozio di filati provides excellent services ensuring maximum competence. We are ready to assist you.",
-        "contact_phone": "+39 338 330 3851",
-        "address": "Via Gian Giuseppe Carulli, 92, 70121 Bari BA, Italy",
-        "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449278.7375341314!2d9.06353296905437!3d45.44472950995973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMilano!5e1!3m2!1sit!2sit!4v1777294181826!5m2!1sit!2sit",
-        "opening_hours": {
-            "Lunedì": "9:00 - 18:00",
-            "Martedì": "9:00 - 18:00",
-            "Mercoledì": "9:00 - 18:00",
-            "Giovedì": "9:00 - 18:00",
-            "Venerdì": "9:00 - 18:00",
-            "Sabato": "10:00 - 14:00",
-            "Domenica": "Chiuso"
+        "company_name": "Filalba Mode",
+        "meta": {
+            "company_name": "Filalba Mode",
+            "primary_color": "#e11d48",
+            "secondary_color": "#f43f5e",
+            "main_service": "Merceria",
+            "city": "Bari"
         },
-        "reviews": [
-            {
+        "hero": {
+            "badge": "Emergenza merceria a Bari",
+            "title": "Hai un problema urgente con il tuo merceria?",
+            "subtitle": "Non perdere tempo. Offriamo interventi rapidi e perfetti a Bari. Affidati a Filalba Mode senza alcun rischio.",
+            "cta_primary": "Chiama Ora per un Intervento Rapido",
+            "cta_secondary": "Scopri i Servizi",
+            "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "image_alt": "merceria a Bari"
+        },
+        "services": {
+            "title": "I Nostri Servizi",
+            "subtitle": "Soluzioni rapide per ogni tua esigenza.",
+            "items": [
+                "Interventi Rapidi",
+                "Lavorazioni su Misura",
+                "Materiali di Alta Qualità",
+                "Preventivi Trasparenti"
+            ]
+        },
+        "about": {
+            "title": "Perché Scegliere Noi a Bari",
+            "description": "Filalba Mode non è un semplice laboratorio: garantiamo un'attenzione ossessiva al dettaglio. Affidati a veri professionisti.",
+            "cta": "Richiedi un Preventivo"
+        },
+        "reviews": {
+            "title": "Non fidarti solo di noi",
+            "subtitle": "Ascolta chi ha già scelto i nostri servizi.",
+            "best_review": {
                 "name": "Local Guide",
-                "text": "Fantastic service and very helpful staff. Highly recommended!",
-                "rating": 4.7
+                "text": "Lavoro perfetto e precisissimo! Consigliatissimo.",
+                "rating": 5
+            },
+            "items": [
+                {
+                    "name": "Cliente Entusiasta",
+                    "text": "Lavoro perfetto e precisissimo! Una vera garanzia.",
+                    "rating": 5
+                }
+            ]
+        },
+        "contact": {
+            "title": "Non Aspettare, Contattaci Ora",
+            "phone": "+39 347 647 5305",
+            "address": "Via Domenico Nicolai, 64, 70122 Bari BA, Italy",
+            "phone_label": "Assistenza Immediata",
+            "phone_sublabel": "Siamo pronti ad aiutarti",
+            "address_label": "Vieni in Sede",
+            "hours_title": "Orari di Apertura",
+            "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.8680795410185!2d13.3330364!3d38.1631584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e8cf1689ea55%3A0xc47e3a968600125c!2sSartoria%20Elisa%20La%20bua!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit",
+            "opening_hours": {
+                "Lunedì": "9:00 - 18:00",
+                "Martedì": "9:00 - 18:00",
+                "Mercoledì": "9:00 - 18:00",
+                "Giovedì": "9:00 - 18:00",
+                "Venerdì": "9:00 - 18:00",
+                "Sabato": "9:00 - 13:00",
+                "Domenica": "Chiuso"
             }
-        ],
-        "_metadata": {
-            "rating": 4.7,
-            "reviews_count": 19,
-            "search_query": "merceria Bari"
+        },
+        "footer": {
+            "description": "Servizi eccellenti a Bari."
         }
     },
     {
         "company_name": "Merceria Intimo Pellecchia",
-        "hero_title": "Welcome to Merceria Intimo Pellecchia",
-        "hero_subtitle": "Discover our high quality services. We pride ourselves on providing the best experience for our customers.",
-        "services": [
-            "Dedicated Customer Service",
-            "Free Consultation",
-            "Professional Approach",
-            "Custom Quotes"
-        ],
-        "about_us": "Merceria Intimo Pellecchia provides excellent services ensuring maximum competence. We are ready to assist you.",
-        "contact_phone": "+39 080 561 3580",
-        "address": "Via Giovanni Modugno, 16b, 70124 Bari BA, Italy",
-        "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449278.7375341314!2d9.06353296905437!3d45.44472950995973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMilano!5e1!3m2!1sit!2sit!4v1777294181826!5m2!1sit!2sit",
-        "opening_hours": {
-            "Lunedì": "9:00 - 18:00",
-            "Martedì": "9:00 - 18:00",
-            "Mercoledì": "9:00 - 18:00",
-            "Giovedì": "9:00 - 18:00",
-            "Venerdì": "9:00 - 18:00",
-            "Sabato": "10:00 - 14:00",
-            "Domenica": "Chiuso"
+        "meta": {
+            "company_name": "Merceria Intimo Pellecchia",
+            "primary_color": "#e11d48",
+            "secondary_color": "#f43f5e",
+            "main_service": "Merceria",
+            "city": "Bari"
         },
-        "reviews": [
-            {
+        "hero": {
+            "badge": "Emergenza merceria a Bari",
+            "title": "Hai un problema urgente con il tuo merceria?",
+            "subtitle": "Non perdere tempo. Offriamo interventi rapidi e perfetti a Bari. Affidati a Merceria Intimo Pellecchia senza alcun rischio.",
+            "cta_primary": "Chiama Ora per un Intervento Rapido",
+            "cta_secondary": "Scopri i Servizi",
+            "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "image_alt": "merceria a Bari"
+        },
+        "services": {
+            "title": "I Nostri Servizi",
+            "subtitle": "Soluzioni rapide per ogni tua esigenza.",
+            "items": [
+                "Interventi Rapidi",
+                "Lavorazioni su Misura",
+                "Materiali di Alta Qualità",
+                "Preventivi Trasparenti"
+            ]
+        },
+        "about": {
+            "title": "Perché Scegliere Noi a Bari",
+            "description": "Merceria Intimo Pellecchia non è un semplice laboratorio: garantiamo un'attenzione ossessiva al dettaglio. Affidati a veri professionisti.",
+            "cta": "Richiedi un Preventivo"
+        },
+        "reviews": {
+            "title": "Non fidarti solo di noi",
+            "subtitle": "Ascolta chi ha già scelto i nostri servizi.",
+            "best_review": {
                 "name": "Local Guide",
-                "text": "Fantastic service and very helpful staff. Highly recommended!",
+                "text": "Lavoro perfetto e precisissimo! Consigliatissimo.",
                 "rating": 4.4
+            },
+            "items": [
+                {
+                    "name": "Cliente Entusiasta",
+                    "text": "Lavoro perfetto e precisissimo! Una vera garanzia.",
+                    "rating": 4.4
+                }
+            ]
+        },
+        "contact": {
+            "title": "Non Aspettare, Contattaci Ora",
+            "phone": "+39 080 561 3580",
+            "address": "Via Giovanni Modugno, 16b, 70124 Bari BA, Italy",
+            "phone_label": "Assistenza Immediata",
+            "phone_sublabel": "Siamo pronti ad aiutarti",
+            "address_label": "Vieni in Sede",
+            "hours_title": "Orari di Apertura",
+            "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.8680795410185!2d13.3330364!3d38.1631584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e8cf1689ea55%3A0xc47e3a968600125c!2sSartoria%20Elisa%20La%20bua!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit",
+            "opening_hours": {
+                "Lunedì": "9:00 - 18:00",
+                "Martedì": "9:00 - 18:00",
+                "Mercoledì": "9:00 - 18:00",
+                "Giovedì": "9:00 - 18:00",
+                "Venerdì": "9:00 - 18:00",
+                "Sabato": "9:00 - 13:00",
+                "Domenica": "Chiuso"
             }
-        ],
-        "_metadata": {
-            "rating": 4.4,
-            "reviews_count": 5,
-            "search_query": "merceria Bari"
+        },
+        "footer": {
+            "description": "Servizi eccellenti a Bari."
         }
     },
     {
         "company_name": "la Merceria",
-        "hero_title": "Welcome to la Merceria",
-        "hero_subtitle": "Discover our high quality services. We pride ourselves on providing the best experience for our customers.",
-        "services": [
-            "Dedicated Customer Service",
-            "Free Consultation",
-            "Professional Approach",
-            "Custom Quotes"
-        ],
-        "about_us": "la Merceria provides excellent services ensuring maximum competence. We are ready to assist you.",
-        "contact_phone": "+39 331 925 9797",
-        "address": "Via Calzaiuoli, 20, 70010 Casamassima BA, Italy",
-        "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449278.7375341314!2d9.06353296905437!3d45.44472950995973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMilano!5e1!3m2!1sit!2sit!4v1777294181826!5m2!1sit!2sit",
-        "opening_hours": {
-            "Lunedì": "9:00 - 18:00",
-            "Martedì": "9:00 - 18:00",
-            "Mercoledì": "9:00 - 18:00",
-            "Giovedì": "9:00 - 18:00",
-            "Venerdì": "9:00 - 18:00",
-            "Sabato": "10:00 - 14:00",
-            "Domenica": "Chiuso"
+        "meta": {
+            "company_name": "la Merceria",
+            "primary_color": "#e11d48",
+            "secondary_color": "#f43f5e",
+            "main_service": "Merceria",
+            "city": "Bari"
         },
-        "reviews": [
-            {
+        "hero": {
+            "badge": "Emergenza merceria a Bari",
+            "title": "Hai un problema urgente con il tuo merceria?",
+            "subtitle": "Non perdere tempo. Offriamo interventi rapidi e perfetti a Bari. Affidati a la Merceria senza alcun rischio.",
+            "cta_primary": "Chiama Ora per un Intervento Rapido",
+            "cta_secondary": "Scopri i Servizi",
+            "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "image_alt": "merceria a Bari"
+        },
+        "services": {
+            "title": "I Nostri Servizi",
+            "subtitle": "Soluzioni rapide per ogni tua esigenza.",
+            "items": [
+                "Interventi Rapidi",
+                "Lavorazioni su Misura",
+                "Materiali di Alta Qualità",
+                "Preventivi Trasparenti"
+            ]
+        },
+        "about": {
+            "title": "Perché Scegliere Noi a Bari",
+            "description": "la Merceria non è un semplice laboratorio: garantiamo un'attenzione ossessiva al dettaglio. Affidati a veri professionisti.",
+            "cta": "Richiedi un Preventivo"
+        },
+        "reviews": {
+            "title": "Non fidarti solo di noi",
+            "subtitle": "Ascolta chi ha già scelto i nostri servizi.",
+            "best_review": {
                 "name": "Local Guide",
-                "text": "Fantastic service and very helpful staff. Highly recommended!",
+                "text": "Lavoro perfetto e precisissimo! Consigliatissimo.",
                 "rating": 5
+            },
+            "items": [
+                {
+                    "name": "Cliente Entusiasta",
+                    "text": "Lavoro perfetto e precisissimo! Una vera garanzia.",
+                    "rating": 5
+                }
+            ]
+        },
+        "contact": {
+            "title": "Non Aspettare, Contattaci Ora",
+            "phone": "+39 331 925 9797",
+            "address": "Via Calzaiuoli, 20, 70010 Casamassima BA, Italy",
+            "phone_label": "Assistenza Immediata",
+            "phone_sublabel": "Siamo pronti ad aiutarti",
+            "address_label": "Vieni in Sede",
+            "hours_title": "Orari di Apertura",
+            "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.8680795410185!2d13.3330364!3d38.1631584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e8cf1689ea55%3A0xc47e3a968600125c!2sSartoria%20Elisa%20La%20bua!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit",
+            "opening_hours": {
+                "Lunedì": "9:00 - 18:00",
+                "Martedì": "9:00 - 18:00",
+                "Mercoledì": "9:00 - 18:00",
+                "Giovedì": "9:00 - 18:00",
+                "Venerdì": "9:00 - 18:00",
+                "Sabato": "9:00 - 13:00",
+                "Domenica": "Chiuso"
             }
-        ],
-        "_metadata": {
-            "rating": 5,
-            "reviews_count": 3,
-            "search_query": "merceria Bari"
+        },
+        "footer": {
+            "description": "Servizi eccellenti a Bari."
+        }
+    },
+    {
+        "company_name": "L'intimo, merceria e negozio di filati",
+        "meta": {
+            "company_name": "L'intimo, merceria e negozio di filati",
+            "primary_color": "#e11d48",
+            "secondary_color": "#f43f5e",
+            "main_service": "Merceria",
+            "city": "Bari"
+        },
+        "hero": {
+            "badge": "Emergenza merceria a Bari",
+            "title": "Hai un problema urgente con il tuo merceria?",
+            "subtitle": "Non perdere tempo. Offriamo interventi rapidi e perfetti a Bari. Affidati a L'intimo, merceria e negozio di filati senza alcun rischio.",
+            "cta_primary": "Chiama Ora per un Intervento Rapido",
+            "cta_secondary": "Scopri i Servizi",
+            "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "image_alt": "merceria a Bari"
+        },
+        "services": {
+            "title": "I Nostri Servizi",
+            "subtitle": "Soluzioni rapide per ogni tua esigenza.",
+            "items": [
+                "Interventi Rapidi",
+                "Lavorazioni su Misura",
+                "Materiali di Alta Qualità",
+                "Preventivi Trasparenti"
+            ]
+        },
+        "about": {
+            "title": "Perché Scegliere Noi a Bari",
+            "description": "L'intimo, merceria e negozio di filati non è un semplice laboratorio: garantiamo un'attenzione ossessiva al dettaglio. Affidati a veri professionisti.",
+            "cta": "Richiedi un Preventivo"
+        },
+        "reviews": {
+            "title": "Non fidarti solo di noi",
+            "subtitle": "Ascolta chi ha già scelto i nostri servizi.",
+            "best_review": {
+                "name": "Local Guide",
+                "text": "Lavoro perfetto e precisissimo! Consigliatissimo.",
+                "rating": 4.7
+            },
+            "items": [
+                {
+                    "name": "Cliente Entusiasta",
+                    "text": "Lavoro perfetto e precisissimo! Una vera garanzia.",
+                    "rating": 4.7
+                }
+            ]
+        },
+        "contact": {
+            "title": "Non Aspettare, Contattaci Ora",
+            "phone": "+39 338 330 3851",
+            "address": "Via Gian Giuseppe Carulli, 92, 70121 Bari BA, Italy",
+            "phone_label": "Assistenza Immediata",
+            "phone_sublabel": "Siamo pronti ad aiutarti",
+            "address_label": "Vieni in Sede",
+            "hours_title": "Orari di Apertura",
+            "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.8680795410185!2d13.3330364!3d38.1631584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e8cf1689ea55%3A0xc47e3a968600125c!2sSartoria%20Elisa%20La%20bua!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit",
+            "opening_hours": {
+                "Lunedì": "9:00 - 18:00",
+                "Martedì": "9:00 - 18:00",
+                "Mercoledì": "9:00 - 18:00",
+                "Giovedì": "9:00 - 18:00",
+                "Venerdì": "9:00 - 18:00",
+                "Sabato": "9:00 - 13:00",
+                "Domenica": "Chiuso"
+            }
+        },
+        "footer": {
+            "description": "Servizi eccellenti a Bari."
         }
     },
     {
         "company_name": "Antica Coltelleria e Arrotino dal 1939 - Riccardo Sapienza",
-        "hero_title": "Welcome to Antica Coltelleria e Arrotino dal 1939 - Riccardo Sapienza",
-        "hero_subtitle": "Discover our high quality services. We pride ourselves on providing the best experience for our customers.",
-        "services": [
-            "Dedicated Customer Service",
-            "Free Consultation",
-            "Professional Approach",
-            "Custom Quotes"
-        ],
-        "about_us": "Antica Coltelleria e Arrotino dal 1939 - Riccardo Sapienza provides excellent services ensuring maximum competence. We are ready to assist you.",
-        "contact_phone": "+39 320 898 7738",
-        "address": "Via Grotte Bianche, 14, 95129 Catania CT, Italy",
-        "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449278.7375341314!2d9.06353296905437!3d45.44472950995973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMilano!5e1!3m2!1sit!2sit!4v1777294181826!5m2!1sit!2sit",
-        "opening_hours": {
-            "Lunedì": "9:00 - 18:00",
-            "Martedì": "9:00 - 18:00",
-            "Mercoledì": "9:00 - 18:00",
-            "Giovedì": "9:00 - 18:00",
-            "Venerdì": "9:00 - 18:00",
-            "Sabato": "10:00 - 14:00",
-            "Domenica": "Chiuso"
+        "meta": {
+            "company_name": "Antica Coltelleria e Arrotino dal 1939 - Riccardo Sapienza",
+            "primary_color": "#e11d48",
+            "secondary_color": "#f43f5e",
+            "main_service": "Arrotino",
+            "city": "Catania"
         },
-        "reviews": [
-            {
+        "hero": {
+            "badge": "Emergenza arrotino a Catania",
+            "title": "Hai un problema urgente con il tuo arrotino?",
+            "subtitle": "Non perdere tempo. Offriamo interventi rapidi e perfetti a Catania. Affidati a Antica Coltelleria e Arrotino dal 1939 - Riccardo Sapienza senza alcun rischio.",
+            "cta_primary": "Chiama Ora per un Intervento Rapido",
+            "cta_secondary": "Scopri i Servizi",
+            "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "image_alt": "arrotino a Catania"
+        },
+        "services": {
+            "title": "I Nostri Servizi",
+            "subtitle": "Soluzioni rapide per ogni tua esigenza.",
+            "items": [
+                "Interventi Rapidi",
+                "Lavorazioni su Misura",
+                "Materiali di Alta Qualità",
+                "Preventivi Trasparenti"
+            ]
+        },
+        "about": {
+            "title": "Perché Scegliere Noi a Catania",
+            "description": "Antica Coltelleria e Arrotino dal 1939 - Riccardo Sapienza non è un semplice laboratorio: garantiamo un'attenzione ossessiva al dettaglio. Affidati a veri professionisti.",
+            "cta": "Richiedi un Preventivo"
+        },
+        "reviews": {
+            "title": "Non fidarti solo di noi",
+            "subtitle": "Ascolta chi ha già scelto i nostri servizi.",
+            "best_review": {
                 "name": "Local Guide",
-                "text": "Fantastic service and very helpful staff. Highly recommended!",
+                "text": "Lavoro perfetto e precisissimo! Consigliatissimo.",
                 "rating": 5
+            },
+            "items": [
+                {
+                    "name": "Cliente Entusiasta",
+                    "text": "Lavoro perfetto e precisissimo! Una vera garanzia.",
+                    "rating": 5
+                }
+            ]
+        },
+        "contact": {
+            "title": "Non Aspettare, Contattaci Ora",
+            "phone": "+39 320 898 7738",
+            "address": "Via Grotte Bianche, 14, 95129 Catania CT, Italy",
+            "phone_label": "Assistenza Immediata",
+            "phone_sublabel": "Siamo pronti ad aiutarti",
+            "address_label": "Vieni in Sede",
+            "hours_title": "Orari di Apertura",
+            "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.8680795410185!2d13.3330364!3d38.1631584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e8cf1689ea55%3A0xc47e3a968600125c!2sSartoria%20Elisa%20La%20bua!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit",
+            "opening_hours": {
+                "Lunedì": "9:00 - 18:00",
+                "Martedì": "9:00 - 18:00",
+                "Mercoledì": "9:00 - 18:00",
+                "Giovedì": "9:00 - 18:00",
+                "Venerdì": "9:00 - 18:00",
+                "Sabato": "9:00 - 13:00",
+                "Domenica": "Chiuso"
             }
-        ],
-        "_metadata": {
-            "rating": 5,
-            "reviews_count": 10,
-            "search_query": "arrotino Catania"
+        },
+        "footer": {
+            "description": "Servizi eccellenti a Catania."
         }
     },
     {
         "company_name": "Martori Cutlery Shop",
-        "hero_title": "Welcome to Martori Cutlery Shop",
-        "hero_subtitle": "Discover our high quality services. We pride ourselves on providing the best experience for our customers.",
-        "services": [
-            "Dedicated Customer Service",
-            "Free Consultation",
-            "Professional Approach",
-            "Custom Quotes"
-        ],
-        "about_us": "Martori Cutlery Shop provides excellent services ensuring maximum competence. We are ready to assist you.",
-        "contact_phone": "+39 338 344 0432",
-        "address": "Via Pacini, 86, 95131 Catania CT, Italy",
-        "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449278.7375341314!2d9.06353296905437!3d45.44472950995973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMilano!5e1!3m2!1sit!2sit!4v1777294181826!5m2!1sit!2sit",
-        "opening_hours": {
-            "Lunedì": "9:00 - 18:00",
-            "Martedì": "9:00 - 18:00",
-            "Mercoledì": "9:00 - 18:00",
-            "Giovedì": "9:00 - 18:00",
-            "Venerdì": "9:00 - 18:00",
-            "Sabato": "10:00 - 14:00",
-            "Domenica": "Chiuso"
+        "meta": {
+            "company_name": "Martori Cutlery Shop",
+            "primary_color": "#e11d48",
+            "secondary_color": "#f43f5e",
+            "main_service": "Arrotino",
+            "city": "Catania"
         },
-        "reviews": [
-            {
+        "hero": {
+            "badge": "Emergenza arrotino a Catania",
+            "title": "Hai un problema urgente con il tuo arrotino?",
+            "subtitle": "Non perdere tempo. Offriamo interventi rapidi e perfetti a Catania. Affidati a Martori Cutlery Shop senza alcun rischio.",
+            "cta_primary": "Chiama Ora per un Intervento Rapido",
+            "cta_secondary": "Scopri i Servizi",
+            "image_url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "image_alt": "arrotino a Catania"
+        },
+        "services": {
+            "title": "I Nostri Servizi",
+            "subtitle": "Soluzioni rapide per ogni tua esigenza.",
+            "items": [
+                "Interventi Rapidi",
+                "Lavorazioni su Misura",
+                "Materiali di Alta Qualità",
+                "Preventivi Trasparenti"
+            ]
+        },
+        "about": {
+            "title": "Perché Scegliere Noi a Catania",
+            "description": "Martori Cutlery Shop non è un semplice laboratorio: garantiamo un'attenzione ossessiva al dettaglio. Affidati a veri professionisti.",
+            "cta": "Richiedi un Preventivo"
+        },
+        "reviews": {
+            "title": "Non fidarti solo di noi",
+            "subtitle": "Ascolta chi ha già scelto i nostri servizi.",
+            "best_review": {
                 "name": "Local Guide",
-                "text": "Fantastic service and very helpful staff. Highly recommended!",
+                "text": "Lavoro perfetto e precisissimo! Consigliatissimo.",
                 "rating": 5
+            },
+            "items": [
+                {
+                    "name": "Cliente Entusiasta",
+                    "text": "Lavoro perfetto e precisissimo! Una vera garanzia.",
+                    "rating": 5
+                }
+            ]
+        },
+        "contact": {
+            "title": "Non Aspettare, Contattaci Ora",
+            "phone": "+39 338 344 0432",
+            "address": "Via Pacini, 86, 95131 Catania CT, Italy",
+            "phone_label": "Assistenza Immediata",
+            "phone_sublabel": "Siamo pronti ad aiutarti",
+            "address_label": "Vieni in Sede",
+            "hours_title": "Orari di Apertura",
+            "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3138.8680795410185!2d13.3330364!3d38.1631584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e8cf1689ea55%3A0xc47e3a968600125c!2sSartoria%20Elisa%20La%20bua!5e0!3m2!1sit!2sit!4v1700000000000!5m2!1sit!2sit",
+            "opening_hours": {
+                "Lunedì": "9:00 - 18:00",
+                "Martedì": "9:00 - 18:00",
+                "Mercoledì": "9:00 - 18:00",
+                "Giovedì": "9:00 - 18:00",
+                "Venerdì": "9:00 - 18:00",
+                "Sabato": "9:00 - 13:00",
+                "Domenica": "Chiuso"
             }
-        ],
-        "_metadata": {
-            "rating": 5,
-            "reviews_count": 11,
-            "search_query": "arrotino Catania"
+        },
+        "footer": {
+            "description": "Servizi eccellenti a Catania."
         }
     }
 ]
